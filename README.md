@@ -33,9 +33,9 @@ Une part importante de la séance sera consacrée au travail individuel sur ses 
 * Introduction aux fondamentaux de la gestion de données de recherche 
 * Autodiagnostic de ses pratiques de gestion de données
 * A partir d'apports théoriques, travail concret des participants sur leurs données
- * Définir un schéma cohérent d'organisation et de nommage de ses fichiers
- * Documenter a minima ses données
- * Organiser la sauvegarde de ses données
- * Gérer les versions d’un document (cadre de travail individuel et collectif)
+  * Définir un schéma cohérent d'organisation et de nommage de ses fichiers
+  * Documenter a minima ses données
+  * Organiser la sauvegarde de ses données
+  * Gérer les versions d’un document (cadre de travail individuel et collectif)
 * Connaître les formats de fichier courants (texte et image) et adapter ses choix en fonction du contexte
 

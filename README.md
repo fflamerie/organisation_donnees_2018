@@ -1,10 +1,6 @@
 # Organiser efficacement ses données
-Matériel de la formation ["Organiser efficacement ses données"](https://sygefor.reseau-urfist.fr/#!/training/7131/7750) organisée par l'Urfist Bordeaux  les 2018-03-05 et 23, 9h-13h.
-Le matériel est composé des éléments suivants.
-* Document de cours - version md à venir et [diaporama en PDF](https://github.com/fflamerie/organisation_donnees_2018/blob/master/2018_03_05_organiser_donnees_doc_cours.pdf)
-* [Programme (diaporama)](https://github.com/fflamerie/organisation_donnees_2018/blob/master/2018_03_05_organiser_donnees_programme.pdf)
-* [Ressources utilisées et  citées](https://github.com/fflamerie/organisation_donnees_2018/blob/master/organiser_donnees_ressources_citees.bib)
-* autres à venir
+Matériel de la formation ["Organiser efficacement ses données"](https://sygefor.reseau-urfist.fr/#!/training/7131/7750) organisée par l'Urfist Bordeaux le 2018-03-05, 9h-13h.
+
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/fr/"><img alt="Licence Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/3.0/fr/88x31.png" /></a><br />Les supports sont mis à disposition selon les termes de la <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/fr/">Licence Creative Commons Attribution -  Partage dans les Mêmes Conditions 3.0 France</a>.
 

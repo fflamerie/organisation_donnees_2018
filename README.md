@@ -1,7 +1,19 @@
 # Organiser efficacement ses données
 Matériel de la formation ["Organiser efficacement ses données"](https://sygefor.reseau-urfist.fr/#!/training/7131/7750) organisée par l'Urfist Bordeaux  le 2018-03-23, 9h-13h.
 
-Le matériel sera mis en ligne prochainement.
+## Matériel
+* Trame - version [md](https://github.com/fflamerie/organisation_donnees_2018/blob/2018_03_23/2018_03_23_org_donnees_trame.md) et [PDF](https://github.com/fflamerie/organisation_donnees_2018/blob/2018_03_23/2018_03_23_org_donnees_trame.pdf)
+* [Tableau analyser/optimiser l'organisation de ses données](https://github.com/fflamerie/organisation_donnees_2018/blob/2018_03_23/org_donnees_tableau_com.odt)
+* Bibliographie de l'ensemble des ressources citées - format [BibTex](https://github.com/fflamerie/organisation_donnees_2018/blob/2018_03_23/org_donnees_biblio.bib) et [Zotero RDF](https://github.com/fflamerie/organisation_donnees_2018/blob/2018_03_23/org_donnees_biblio_zotero-rdf.rdf)
+
+### Fiches
+* [Formats de fichier](https://github.com/fflamerie/organisation_donnees_2018/blob/2018_03_23/2018_03_23_F_formats.md)
+* [Documenter](https://github.com/fflamerie/organisation_donnees_2018/blob/2018_03_23/2018_03_23_F_documenter.md)
+* [Organiser : structurer des dossiers](https://github.com/fflamerie/organisation_donnees_2018/blob/2018_03_23/2018_03_23_F_dossiers.md)
+* [Organiser : nommer des fichiers](https://github.com/fflamerie/organisation_donnees_2018/blob/2018_03_23/2018_03_23_F_fichiers_nom.md)
+* [Organiser : versionner des fichiers](https://github.com/fflamerie/organisation_donnees_2018/blob/2018_03_23/2018_03_23_F_fichiers_version.md)
+* [Organiser des items et des variables](https://github.com/fflamerie/organisation_donnees_2018/blob/2018_03_23/2018_03_23_F_items.md)
+* [Préserver - sauvegarder](https://github.com/fflamerie/organisation_donnees_2018/blob/2018_03_23/2018_03_23_F_sauvegarder.md)
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/fr/"><img alt="Licence Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/3.0/fr/88x31.png" /></a><br />Les supports sont mis à disposition selon les termes de la <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/fr/">Licence Creative Commons Attribution -  Partage dans les Mêmes Conditions 3.0 France</a>.
 

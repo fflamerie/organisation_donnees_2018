@@ -1,0 +1,2345 @@
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns:z="http://www.zotero.org/namespaces/export#"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:bib="http://purl.org/net/biblio#"
+ xmlns:foaf="http://xmlns.com/foaf/0.1/"
+ xmlns:link="http://purl.org/rss/1.0/modules/link/"
+ xmlns:prism="http://prismstandard.org/namespaces/1.2/basic/"
+ xmlns:vcard="http://nwalsh.com/rdf/vCard#">
+    <bib:Document rdf:about="https://unlockingresearch.blog.lib.cam.ac.uk/?p=975">
+        <z:itemType>blogPost</z:itemType>
+        <dcterms:isPartOf>
+           <z:Blog><dc:title>Unlocking Research</dc:title></z:Blog>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Cadwallader</foaf:surname>
+                        <foaf:givenname>Lauren</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_144"/>
+                                   <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://unlockingresearch.blog.lib.cam.ac.uk/?p=975</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:date>25/10/2016</dc:date>
+        <dcterms:dateSubmitted>2016-10-25 10:30:37</dcterms:dateSubmitted>
+        <dc:title>Walking the talk- reflections on working ‘openly’</dc:title>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_144">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="C:\Users\flameriedela\Desktop\PDF_sept2016\Kingsley_.html"/>
+        <dc:title>Kingsley_.html</dc:title>
+        <z:linkMode>2</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:ConferenceProceedings rdf:about="https://zenodo.org/record/239090">
+        <z:itemType>presentation</z:itemType>
+        <z:presenters>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Higman</foaf:surname>
+                        <foaf:givenname>Rosie</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Teperek</foaf:surname>
+                        <foaf:givenname>Marta</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </z:presenters>
+        <link:link rdf:resource="#item_9083"/>
+        <link:link rdf:resource="#item_8022"/>
+        <link:link rdf:resource="#item_8024"/>
+        <link:link rdf:resource="#item_8026"/>
+        <link:link rdf:resource="#item_8023"/>
+        <link:link rdf:resource="#item_8025"/>
+        <link:link rdf:resource="#item_8028"/>
+        <link:link rdf:resource="#item_8029"/>
+        <link:link rdf:resource="#item_8030"/>
+                                            <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://zenodo.org/record/239090</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:date>janvier 11, 2017</dc:date>
+        <dc:description>DOI: 10.5281/zenodo.239090</dc:description>
+        <dcterms:dateSubmitted>2017-09-05 09:17:53</dcterms:dateSubmitted>
+        <dcterms:abstract>These materials are designed as a template for an introductory Research Data Management workshop for STEM postgraduate students and Early Career Researchers. The workshop is interactive and is designed to be run for 2-3 hours depending on which sections of the workshop are delivered. As it is a template workshop there is a lot of material to cover all disciplines, it is unlikely that all sections would be of interest to any one group of researchers. The sections are:&lt;br&gt;
+Introduction&lt;br&gt;
+Backup and file sharing&lt;br&gt;
+How to organise your data well&lt;br&gt;
+Data Tools&lt;br&gt;
+Personal and sensitive data&lt;br&gt;
+Data sharing&lt;br&gt;
+Data Management Plans
+
+The workshop works best when adapted for a particular discipline and with a maximum of 30 participants. This workshop was developed for the Data Champions programme at the University of Cambridge and is an adaptation of workshops which are run on a regular basis for PhD students and Postdoctoral researchers. If you would like any more information please email info@data.cam.ac.uk and we would be happy to answer any questions that you have.</dcterms:abstract>
+        <dc:title>Template Research Data Management Workshop For Stem Researchers</dc:title>
+    </bib:ConferenceProceedings>
+    <z:Attachment rdf:about="#item_9083">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Higman_2017_data_loss_scenarii.pdf</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_8022">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Higman_2017_Template_Research.docx</dc:title>
+        <link:type>application/vnd.openxmlformats-officedocument.wordprocessingml.document</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_8024">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Higman_2017_Template_Research.docx</dc:title>
+        <link:type>application/vnd.openxmlformats-officedocument.wordprocessingml.document</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_8026">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Higman_2017_Template_Research.docx</dc:title>
+        <link:type>application/vnd.openxmlformats-officedocument.wordprocessingml.document</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_8023">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Higman_2017_Template_Research.pdf</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_8025">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Higman_2017_Template_Research.pdf</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_8028">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Higman_2017_Template_Research.pdf</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_8029">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Higman_2017_Template_Research.pptx</dc:title>
+        <link:type>application/vnd.openxmlformats-officedocument.presentationml.presentation</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_8030">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Higman_2017_Template_Research.txt</dc:title>
+        <link:type>text/plain</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="https://eos.org/editors-vox/do-you-expect-me-to-just-give-away-my-data">
+        <z:itemType>blogPost</z:itemType>
+        <dcterms:isPartOf>
+           <z:Blog><dc:title>Editors’ Vox</dc:title></z:Blog>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Brewer</foaf:surname>
+                        <foaf:givenname>Peter</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+                                                              <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://eos.org/editors-vox/do-you-expect-me-to-just-give-away-my-data</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:date>2017-09-14</dc:date>
+        <dcterms:dateSubmitted>2017-09-18 06:57:40</dcterms:dateSubmitted>
+        <dcterms:abstract>The Editor-in-Chief of JGR: Oceans explains why the new AGU data policy is important for the rigor and long-term security of scientific research.</dcterms:abstract>
+        <dc:title>“Do You Expect Me to Just Give Away My Data?”</dc:title>
+        <z:shortTitle>“Do You Expect Me to Just Give Away My Data?</z:shortTitle>
+    </bib:Document>
+    <bib:Illustration rdf:about="http://libguides.library.cqu.edu.au/researchdatamanagement">
+        <z:itemType>artwork</z:itemType>
+        <z:artists>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Morgan</foaf:surname>
+                        <foaf:givenname>Helen</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </z:artists>
+        <link:link rdf:resource="#item_3896"/>
+                          <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://libguides.library.cqu.edu.au/researchdatamanagement</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:date>2017</dc:date>
+        <dc:title>Research Data Management</dc:title>
+    </bib:Illustration>
+    <z:Attachment rdf:about="#item_3896">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>2017_Research_Data.jpg</dc:title>
+        <link:type>image/jpeg</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="http://www.liberquarterly.eu/article/10.18352/lq.10215/">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:2213-056X"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Zeeland</foaf:surname>
+                        <foaf:givenname>Hilde van</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ringersma</foaf:surname>
+                        <foaf:givenname>Jacquelijn</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_3990"/>
+                                                     <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://www.liberquarterly.eu/article/10.18352/lq.10215/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:rights>Authors who publish with this journal agree to the following terms:    Authors retain copyright and grant the journal right of first publication with the work simultaneously licensed under a  Creative Commons Attribution License  that allows others to share the work with an acknowledgement of the work's authorship and initial publication in this journal.  Authors are able to enter into separate, additional contractual arrangements for the non-exclusive distribution of the journal's published version of the work (e.g., post it to an institutional repository or publish it in a book), with an acknowledgement of its initial publication in this journal.  Authors are permitted and encouraged to post their work online (e.g., in institutional repositories or on their website) prior to and during the submission process, as it can lead to productive exchanges, as well as earlier and greater citation of published work (See  The Effect of Open Access ).  All third-party images reproduced on this journal are shared under Educational Fair Use. For more information on  Educational Fair Use , please see  this useful checklist prepared by Columbia University Libraries .   All copyright  of third-party content posted here for research purposes belongs to its original owners.  Unless otherwise stated all references to characters and comic art presented on this journal are ©, ® or ™ of their respective owners. No challenge to any owner’s rights is intended or should be inferred.</dc:rights>
+        <bib:pages>153-170</bib:pages>
+        <dc:date>2017-09-12</dc:date>
+        <dcterms:dateSubmitted>2017-09-22 10:50:41</dcterms:dateSubmitted>
+        <z:libraryCatalog>www.liberquarterly.eu</z:libraryCatalog>
+        <z:language>en</z:language>
+        <dcterms:abstract>Article: The development of a research data policy at Wageningen University &amp; Research:  best practices as a framework</dcterms:abstract>
+        <dc:title>The development of a research data policy at Wageningen University &amp; Research: best practices as a framework</dc:title>
+        <z:shortTitle>The development of a research data policy at Wageningen University &amp; Research</z:shortTitle>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:2213-056X">
+        <prism:volume>27</prism:volume>
+        <prism:number>1</prism:number>
+        <dc:title>LIBER Quarterly</dc:title>
+        <dc:identifier>ISSN 2213-056X</dc:identifier>
+        <dc:identifier>DOI 10.18352/lq.10215</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_3990">
+        <z:itemType>attachment</z:itemType>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://www.liberquarterly.eu/articles/10.18352/lq.10215/galley/10717/download/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2017-09-22 10:50:43</dcterms:dateSubmitted>
+        <dc:title>Zeeland_2017_The_development_of.pdf</dc:title>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="https://data.research.cornell.edu/content/tabular-data">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+            <z:Website>
+               <dc:title>Research Data Management Service Group</dc:title>
+            </z:Website>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Cornell Research Data Management Service Group</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+                                   <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://data.research.cornell.edu/content/tabular-data</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2017-10-12 13:29:45</dcterms:dateSubmitted>
+        <dc:title>Preparing tabular data for description and archiving</dc:title>
+    </bib:Document>
+    <bib:Article rdf:about="https://programminghistorian.org/lessons/preserving-your-research-data">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Journal><dc:title>Programming Historian</dc:title></bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Baker</foaf:surname>
+                        <foaf:givenname>James</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+                                                              <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://programminghistorian.org/lessons/preserving-your-research-data</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:date>2014-04-30</dc:date>
+        <dcterms:dateSubmitted>2017-10-17 09:53:22</dcterms:dateSubmitted>
+        <z:libraryCatalog>programminghistorian.org</z:libraryCatalog>
+        <dc:title>Preserving Your Research Data</dc:title>
+    </bib:Article>
+    <bib:Article rdf:about="https://doi.org/10.1186/s13059-015-0850-7">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:1474-760X"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Markowetz</foaf:surname>
+                        <foaf:givenname>Florian</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_4265"/>
+                                            <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://doi.org/10.1186/s13059-015-0850-7</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>274</bib:pages>
+        <dc:date>December 8, 2015</dc:date>
+        <dcterms:dateSubmitted>2017-10-18 09:58:02</dcterms:dateSubmitted>
+        <z:libraryCatalog>BioMed Central</z:libraryCatalog>
+        <dcterms:abstract>And so, my fellow scientists: ask not what you can do for reproducibility; ask what reproducibility can do for you! Here, I present five reasons why working reproducibly pays off in the long run and is in the self-interest of every ambitious, career-oriented scientist.</dcterms:abstract>
+        <dc:title>Five selfish reasons to work reproducibly</dc:title>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:1474-760X">
+        <prism:volume>16</prism:volume>
+        <dc:title>Genome Biology</dc:title>
+        <dc:identifier>ISSN 1474-760X</dc:identifier>
+        <dcterms:alternative>Genome Biology</dcterms:alternative>
+        <dc:identifier>DOI 10.1186/s13059-015-0850-7</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_4265">
+        <z:itemType>attachment</z:itemType>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://genomebiology.biomedcentral.com/track/pdf/10.1186/s13059-015-0850-7?site=genomebiology.biomedcentral.com</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2017-10-18 09:58:03</dcterms:dateSubmitted>
+        <dc:title>Markowetz_2015_Five_selfish.pdf</dc:title>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="http://dx.plos.org/10.1371/journal.pcbi.1000424">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:1553-7358"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Noble</foaf:surname>
+                        <foaf:givenname>William Stafford</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:editors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Lewitter</foaf:surname>
+                        <foaf:givenname>Fran</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:editors>
+        <link:link rdf:resource="#item_9442"/>
+        <link:link rdf:resource="#item_9443"/>
+                                            <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://dx.plos.org/10.1371/journal.pcbi.1000424</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>e1000424</bib:pages>
+        <dc:date>2009-7-31</dc:date>
+        <dcterms:dateSubmitted>2017-10-18 11:38:43</dcterms:dateSubmitted>
+        <z:libraryCatalog>CrossRef</z:libraryCatalog>
+        <z:language>en</z:language>
+        <dc:title>A Quick Guide to Organizing Computational Biology Projects</dc:title>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:1553-7358">
+        <prism:volume>5</prism:volume>
+        <prism:number>7</prism:number>
+        <dc:title>PLoS Computational Biology</dc:title>
+        <dc:identifier>ISSN 1553-7358</dc:identifier>
+        <dc:identifier>DOI 10.1371/journal.pcbi.1000424</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_9442">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>journal.pcbi.1000424.g001.png</dc:title>
+        <link:type>image/png</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_9443">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Noble_2009_A_Quick_Guide_to.PDF</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="https://data.research.cornell.edu/content/readme">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+            <z:Website>
+               <dc:title>Research Data Management Service Group</dc:title>
+            </z:Website>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Cornell Research Data Management Service Group</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_9233"/>
+                                   <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://data.research.cornell.edu/content/readme</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2017-10-18 12:31:05</dcterms:dateSubmitted>
+        <dc:title>Guide to writing &quot;readme&quot; style metadata</dc:title>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_9233">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Cornell_Research_Data_Management_Service_Group_Guide_to_writing.txt</dc:title>
+        <link:type>text/plain</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="https://www2.le.ac.uk/services/research-data/organise-data">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website><dc:title>University of Leicester</dc:title></z:Website>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>University of Leicester</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+                                   <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www2.le.ac.uk/services/research-data/organise-data</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2017-10-19 09:01:49</dcterms:dateSubmitted>
+        <z:language>en</z:language>
+        <dcterms:abstract>How do you find the research data you and your collaborators have created, gathered and manipulated? As time passes and data volumes and file numbers increase how do you prevent the issue becoming unmanageable? It is very easy for research (and any other) data to become disorganised, and data organisation isn’t going to be top of your list of priorities. However data organisation is time well spent. Use file and folder structures, and name, describe and document your data. This will save time, reduce errors and enable you and others to find and understand what you have done. Practical methods and processes, used consistently are required.</dcterms:abstract>
+        <dc:title>Organise data</dc:title>
+    </bib:Document>
+    <bib:Report rdf:about="http://www.niso.org/apps/group_public/download.php/15375/PrimerRDM-2015-0727.pdf">
+        <z:itemType>report</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Series>
+               <dcterms:alternative>NISO Primer Series</dcterms:alternative>
+            </bib:Series>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+               <foaf:name>National Information Standards Organization</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Strasser</foaf:surname>
+                        <foaf:givenname>Carly</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_4373"/>
+                                   <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://www.niso.org/apps/group_public/download.php/15375/PrimerRDM-2015-0727.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:date>2015</dc:date>
+        <dcterms:dateSubmitted>2017-10-26 07:49:19</dcterms:dateSubmitted>
+        <dc:title>Research Data Management</dc:title>
+    </bib:Report>
+    <z:Attachment rdf:about="#item_4373">
+        <z:itemType>attachment</z:itemType>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://www.niso.org/apps/group_public/download.php/15375/PrimerRDM-2015-0727.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2017-10-26 07:49:19</dcterms:dateSubmitted>
+        <dc:title>Strasser_2015_Research_Data.pdf</dc:title>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Illustration rdf:about="http://phdcomics.com/comics/archive.php?comicid=1531">
+        <z:itemType>artwork</z:itemType>
+        <z:artists>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Cham</foaf:surname>
+                        <foaf:givenname>Jorge</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </z:artists>
+        <link:link rdf:resource="#item_8095"/>
+                 <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://phdcomics.com/comics/archive.php?comicid=1531</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:date>2012</dc:date>
+        <dcterms:dateSubmitted>2017-11-02 17:18:34</dcterms:dateSubmitted>
+        <dcterms:abstract>PHD Comics:</dcterms:abstract>
+        <dc:title>notFinal.doc</dc:title>
+        <z:shortTitle>PHD Comics</z:shortTitle>
+    </bib:Illustration>
+    <z:Attachment rdf:about="#item_8095">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>2012_notFinal.gif</dc:title>
+        <link:type>image/gif</link:type>
+    </z:Attachment>
+    <bib:Illustration rdf:about="http://phdcomics.com/comics/archive.php?comicid=1323">
+        <z:itemType>artwork</z:itemType>
+        <z:artists>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Cham</foaf:surname>
+                        <foaf:givenname>Jorge</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </z:artists>
+        <link:link rdf:resource="#item_8094"/>
+                 <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://phdcomics.com/comics/archive.php?comicid=1323</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2017-11-02 17:20:48</dcterms:dateSubmitted>
+        <dcterms:abstract>PHD Comics</dcterms:abstract>
+        <dc:title>A story in file names</dc:title>
+        <z:shortTitle>PHD Comics</z:shortTitle>
+    </bib:Illustration>
+    <z:Attachment rdf:about="#item_8094">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>A_story_in_file.gif</dc:title>
+        <link:type>image/gif</link:type>
+    </z:Attachment>
+    <bib:Report rdf:about="#item_7416">
+        <z:itemType>report</z:itemType>
+        <dc:publisher>
+           <foaf:Organization><foaf:name>OTELo</foaf:name></foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Arnould</foaf:surname>
+                        <foaf:givenname>Pierre-Yves</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Jacquemot-Perbal</foaf:surname>
+                        <foaf:givenname>Marie-Christine</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_7417"/>
+                                            <dc:date>2017-06-20</dc:date>
+        <dc:description>DOI: 10.24396/ORDAR-1</dc:description>
+        <z:libraryCatalog>DataCite</z:libraryCatalog>
+        <z:language>FRENCH</z:language>
+        <dcterms:abstract>L’objectif de ce guide est de rappeler les bonnes pratiques pour la gestion de vos données tout au long de leur cycle de vie  de leur production à leur diffusion et valorisation. La gestion des échantillons peut s’avérer aussi nécessaire pour une réutilisation ou un partage.</dcterms:abstract>
+        <prism:number>v1.1</prism:number>
+        <dc:title>Guide de bonnes pratiques : gestion et valorisation des données de recherche</dc:title>
+        <z:shortTitle>Guide de bonnes pratiques</z:shortTitle>
+    </bib:Report>
+    <z:Attachment rdf:about="#item_7417">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Pierre-Yves_2017_Guide_de_bonnes.pdf</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="https://www.ukdataservice.ac.uk/manage-data/format/versioning">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website><dc:title>UK Data Service</dc:title></z:Website>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>UK Data Service</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+                          <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.ukdataservice.ac.uk/manage-data/format/versioning</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2017-11-23 08:37:59</dcterms:dateSubmitted>
+        <dcterms:abstract>It is important to ensure that different copies or versions of files, files held in different formats or locations, and information that is cross-referenced between files are all subject to version control.</dcterms:abstract>
+        <dc:title>Version control and authenticity</dc:title>
+    </bib:Document>
+    <bib:Document rdf:about="http://software-carpentry.org//blog/2017/10/oliver-fave.html">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website><dc:title>Software Carpentry</dc:title></z:Website>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Oliver</foaf:surname>
+                        <foaf:givenname>Jeff</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+                                            <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://software-carpentry.org//blog/2017/10/oliver-fave.html</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:date>2017-10-25</dc:date>
+        <dcterms:dateSubmitted>2017-11-29 08:00:43</dcterms:dateSubmitted>
+        <dcterms:abstract>Software Carpentry is a volunteer non-profit organization dedicated to teaching basic computing skills to researchers.</dcterms:abstract>
+        <dc:title>My Favourite Tool: Git/GitHub</dc:title>
+        <z:shortTitle>My Favourite Tool</z:shortTitle>
+    </bib:Document>
+    <bib:Document rdf:about="http://blogs.bl.uk/digital-scholarship/2017/12/cleaning-and-visualising-privy-council-appeals-data.html">
+        <z:itemType>blogPost</z:itemType>
+        <dcterms:isPartOf>
+           <z:Blog><dc:title>Digital scholarship blog</dc:title></z:Blog>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Middle</foaf:surname>
+                        <foaf:givenname>Sarah</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+                                                     <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://blogs.bl.uk/digital-scholarship/2017/12/cleaning-and-visualising-privy-council-appeals-data.html</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:date>21/12/2017</dc:date>
+        <dcterms:dateSubmitted>2017-12-22 07:19:43</dcterms:dateSubmitted>
+        <dc:title>Cleaning and Visualising Privy Council Appeals Data</dc:title>
+    </bib:Document>
+    <bib:ConferenceProceedings rdf:about="https://www.slideshare.net/CTobinMagle/data-and-donuts-data-organization">
+        <z:itemType>presentation</z:itemType>
+        <z:presenters>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Magle</foaf:surname>
+                        <foaf:givenname>C. Tobin</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </z:presenters>
+        <link:link rdf:resource="#item_8020"/>
+                          <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.slideshare.net/CTobinMagle/data-and-donuts-data-organization</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:date>2016</dc:date>
+        <dcterms:dateSubmitted>2018-01-04 13:39:02</dcterms:dateSubmitted>
+        <dcterms:abstract>How to organize your data using folders, file names and spreadsheets.</dcterms:abstract>
+        <dc:title>Data and Donuts: Data organization</dc:title>
+        <z:shortTitle>Data and Donuts</z:shortTitle>
+    </bib:ConferenceProceedings>
+    <z:Attachment rdf:about="#item_8020">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Magle_2016_Data_and_Donuts.pdf</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="https://tomwallis.info/2014/01/16/setting-up-a-project-directory/">
+        <z:itemType>blogPost</z:itemType>
+        <dcterms:isPartOf>
+           <z:Blog><dc:title>Practical Vision Science</dc:title></z:Blog>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Wallis</foaf:surname>
+                        <foaf:givenname>Thomas</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+                          <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://tomwallis.info/2014/01/16/setting-up-a-project-directory/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:date>2014-01-16T15:56:39+00:00</dc:date>
+        <dcterms:dateSubmitted>2018-01-04 14:21:17</dcterms:dateSubmitted>
+        <dcterms:abstract>The first step in making a research project reproducible is to make sure that the files are associated with it are organised. Since scientific projects will change (sometimes a lot) as you work on …</dcterms:abstract>
+        <dc:title>Setting up a project directory</dc:title>
+    </bib:Document>
+    <bib:Document rdf:about="http://mantra.edina.ac.uk/organisingdata/">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+            <z:Website>
+               <dc:title>MANTRA Research Data Management Training</dc:title>
+            </z:Website>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>The University of Edinburgh</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+                                   <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://mantra.edina.ac.uk/organisingdata/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2018-01-05 10:01:27</dcterms:dateSubmitted>
+        <dc:title>Organising data</dc:title>
+    </bib:Document>
+    <bib:ConferenceProceedings rdf:about="https://libraries.mit.edu/data-management/files/2014/05/FileOrgSlides_20170118sm.pdf">
+        <z:itemType>presentation</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>MIT Libraries</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+            </foaf:Organization>
+        </dc:publisher>
+        <z:presenters>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Malinowski</foaf:surname>
+                        <foaf:givenname>Christine</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </z:presenters>
+        <link:link rdf:resource="#item_8070"/>
+        <link:link rdf:resource="#item_8074"/>
+                                   <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://libraries.mit.edu/data-management/files/2014/05/FileOrgSlides_20170118sm.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:date>18/01/2017</dc:date>
+        <dcterms:dateSubmitted>2018-01-05 10:21:09</dcterms:dateSubmitted>
+        <dc:title>Data Management: File Organization</dc:title>
+    </bib:ConferenceProceedings>
+    <z:Attachment rdf:about="#item_8070">
+        <z:itemType>attachment</z:itemType>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://libraries.mit.edu/data-management/files/2014/05/FileOrgSlides_20170118sm.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2018-01-05 10:21:09</dcterms:dateSubmitted>
+        <dc:title>Malinowski_Data_Management.pdf</dc:title>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_8074">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Malinowski_Data_Management.rtf</dc:title>
+        <link:type>application/msword</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="https://libguides.mit.edu/c.php?g=176344&amp;p=1160756">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website><dc:title>MIT Libraries</dc:title></z:Website>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Smith</foaf:surname>
+                        <foaf:givenname>Kari</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Malinowski</foaf:surname>
+                        <foaf:givenname>Christine</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+                          <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://libguides.mit.edu/c.php?g=176344&amp;p=1160756</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:rights>Copyright MIT Libraries 2018</dc:rights>
+        <dcterms:dateSubmitted>2018-01-05 10:28:34</dcterms:dateSubmitted>
+        <z:language>en</z:language>
+        <dcterms:abstract>Resource companion to the IAP January 2013 presentation and demonstration of Tagging and Finding Your Digital Files, presented by MIT Institute Archives staff Mikki Macdonald and Kari Smith.</dcterms:abstract>
+        <dc:title>Tagging and Finding Your Files</dc:title>
+        <z:shortTitle>LibGuides</z:shortTitle>
+    </bib:Document>
+    <bib:ConferenceProceedings rdf:about="https://libraries.mit.edu/data-management/files/2014/05/rdm101_IAP2016_20160112-1.pdf">
+        <z:itemType>presentation</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>MIT Libraries</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+            </foaf:Organization>
+        </dc:publisher>
+        <z:presenters>
+            <rdf:Seq>
+                <rdf:li>
+                   <foaf:Person><foaf:surname>IAP</foaf:surname></foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </z:presenters>
+        <link:link rdf:resource="#item_8076"/>
+                                            <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://libraries.mit.edu/data-management/files/2014/05/rdm101_IAP2016_20160112-1.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:date>2016</dc:date>
+        <dcterms:dateSubmitted>2018-01-05 10:32:31</dcterms:dateSubmitted>
+        <z:meetingName>MIT</z:meetingName>
+        <dc:title>Research Data Management 101: The Lifecycle of a Dataset</dc:title>
+    </bib:ConferenceProceedings>
+    <z:Attachment rdf:about="#item_8076">
+        <z:itemType>attachment</z:itemType>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://libraries.mit.edu/data-management/files/2014/05/rdm101_IAP2016_20160112-1.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2018-01-05 10:32:31</dcterms:dateSubmitted>
+        <dc:title>IAP_2016_Research_Data.pdf</dc:title>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="http://mantra.edina.ac.uk/fileformatandtransformation/">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+            <z:Website>
+               <dc:title>MANTRA Research Data Management Training</dc:title>
+            </z:Website>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>The University of Edinburgh</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+                                   <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://mantra.edina.ac.uk/fileformatandtransformation/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2018-01-05 10:51:16</dcterms:dateSubmitted>
+        <dc:title>File formats and transformation</dc:title>
+    </bib:Document>
+    <bib:Document rdf:about="http://mantra.edina.ac.uk/documentation_metadata_citation/">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+            <z:Website>
+               <dc:title>MANTRA Research Data Management Training</dc:title>
+            </z:Website>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>The University of Edinburgh</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_9429"/>
+                                   <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://mantra.edina.ac.uk/documentation_metadata_citation/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2018-01-05 10:58:51</dcterms:dateSubmitted>
+        <dc:title>Documentation, metadata, citation</dc:title>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_9429">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>quizz_metadata.png</dc:title>
+        <link:type>image/png</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="http://mantra.edina.ac.uk/libtraining.html">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+            <z:Website>
+               <dc:title>MANTRA Research Data Management Training</dc:title>
+            </z:Website>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>The University of Edinburgh</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_9091"/>
+        <link:link rdf:resource="#item_9090"/>
+        <link:link rdf:resource="#item_9089"/>
+        <link:link rdf:resource="#item_9092"/>
+                                                     <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://mantra.edina.ac.uk/libtraining.html</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2018-01-05 11:10:39</dcterms:dateSubmitted>
+        <dc:title>Do-It-Yourself Research Data Management Training Kit for Librarians</dc:title>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_9091">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Session4GroupExercise2.pdf</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_9090">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Session5GroupExercise1.pdf</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_9089">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Session5GroupExercise2.pdf</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_9092">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>storage_mantra_1.pdf</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="http://mantra.edina.ac.uk/storageandsecurity/">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+            <z:Website>
+               <dc:title>MANTRA Research Data Management Training</dc:title>
+            </z:Website>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>The University of Edinburgh</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+                                   <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://mantra.edina.ac.uk/storageandsecurity/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2018-01-05 11:32:03</dcterms:dateSubmitted>
+        <dc:title>Storage and security</dc:title>
+    </bib:Document>
+    <rdf:Description rdf:about="https://www.wur.nl/upload_mm/d/4/9/fec82c96-d901-49c2-8205-c40a2e819ee7_Data_Management_Plan_Lucie_Vermeulen.pdf">
+        <z:itemType>document</z:itemType>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Vermeulen</foaf:surname>
+                        <foaf:givenname>Lucie C.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_8266"/>
+                                   <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.wur.nl/upload_mm/d/4/9/fec82c96-d901-49c2-8205-c40a2e819ee7_Data_Management_Plan_Lucie_Vermeulen.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:title>Data Management Plan</dc:title>
+    </rdf:Description>
+    <z:Attachment rdf:about="#item_8266">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Data_Management.pdf</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="http://datasupport.researchdata.nl/en/start-the-course/iii-the-research-phase/storing-data/">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website><dc:title>Essentials 4 Data Support</dc:title></z:Website>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Research Data Netherlands</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+                          <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://datasupport.researchdata.nl/en/start-the-course/iii-the-research-phase/storing-data/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2018-01-08 09:55:08</dcterms:dateSubmitted>
+        <dc:title>Storing data</dc:title>
+    </bib:Document>
+    <bib:Document rdf:about="https://www.ukdataservice.ac.uk/manage-data/store/backup">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website><dc:title>UK Data Service</dc:title></z:Website>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>UK Data Service</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+                          <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.ukdataservice.ac.uk/manage-data/store/backup</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2018-01-08 10:02:07</dcterms:dateSubmitted>
+        <dcterms:abstract>Making back-ups of files is an essential element of data management. Regular back-ups protect against accidental or malicious data loss and can be used to restore originals if there is loss of data.</dcterms:abstract>
+        <dc:title>Data backup</dc:title>
+    </bib:Document>
+    <bib:Document rdf:about="https://www2.le.ac.uk/services/research-data/organise-data/naming-files">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website><dc:title>University of Leicester</dc:title></z:Website>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>University of Leicester</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+                                   <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www2.le.ac.uk/services/research-data/organise-data/naming-files</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2018-01-08 10:06:04</dcterms:dateSubmitted>
+        <z:language>en</z:language>
+        <dcterms:abstract>Naming conventions are rules which enable the titling of electronic and physical folders, documents and records in a consistent and logical way. This ensures that the correct records can be located, identified and retrieved from a filing system in a timely fashion, and that they are stored in an appropriate secure location. Ideally, the best time to think how to name and structure the documents and directories you create is at the start of a project.</dcterms:abstract>
+        <dc:title>Naming files and folders</dc:title>
+    </bib:Document>
+    <bib:Document rdf:about="https://www.wur.nl/en/Expertise-Services/Data-Management-Support-Hub/Browse-by-Subject/Organising-files-and-folders.htm">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+            <z:Website>
+               <dc:title>Wageningen University &amp; Research</dc:title>
+            </z:Website>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Wageningen University &amp; Research</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_8289"/>
+                          <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.wur.nl/en/Expertise-Services/Data-Management-Support-Hub/Browse-by-Subject/Organising-files-and-folders.htm</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:date>2015-02-09T11:45:00CET</dc:date>
+        <dcterms:dateSubmitted>2018-01-08 10:08:00</dcterms:dateSubmitted>
+        <z:language>en_US</z:language>
+        <dcterms:abstract>Designing a logical folder structure and consistently applying descriptive file names over time makes your research process more efficient. Some best practices are provided below.</dcterms:abstract>
+        <dc:title>Organising files and folders</dc:title>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_8289">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Wageningen_University_&amp;_Research_2015_Organising_files.jpg</dc:title>
+        <link:type>image/jpeg</link:type>
+    </z:Attachment>
+    <rdf:Description rdf:about="http://researchdata.4tu.nl/fileadmin/editor_upload/pdf/README/Guidelines_for_creating_a_README_file.pdf">
+        <z:itemType>document</z:itemType>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>4TU Centre for Research Data</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_8516"/>
+        <link:link rdf:resource="#item_9234"/>
+                          <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://researchdata.4tu.nl/fileadmin/editor_upload/pdf/README/Guidelines_for_creating_a_README_file.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:date>2017-12</dc:date>
+        <dcterms:dateSubmitted>2018-01-09 09:51:26</dcterms:dateSubmitted>
+        <dc:title>Guidelines for creating a README file</dc:title>
+    </rdf:Description>
+    <z:Attachment rdf:about="#item_8516">
+        <z:itemType>attachment</z:itemType>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://researchdata.4tu.nl/fileadmin/editor_upload/pdf/README/Guidelines_for_creating_a_README_file.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2018-01-09 09:51:26</dcterms:dateSubmitted>
+        <dc:title>4TU_Centre_for_Research_Data_2017_Guidelines_for.pdf</dc:title>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_9234">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>exemple_readme_Delft.txt</dc:title>
+        <link:type>text/plain</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="https://statistique-et-logiciel-r.com/12-recommandations-pour-organiser-efficacement-vos-donnees-dans-un-tableur/">
+        <z:itemType>blogPost</z:itemType>
+        <dcterms:isPartOf>
+           <z:Blog><dc:title>Statistiques et logiciel R</dc:title></z:Blog>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Della Vedova</foaf:surname>
+                        <foaf:givenname>Claire</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+                          <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://statistique-et-logiciel-r.com/12-recommandations-pour-organiser-efficacement-vos-donnees-dans-un-tableur/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:date>2017-12-17T21:59:11+01:00</dc:date>
+        <dcterms:dateSubmitted>2018-01-09 13:39:39</dcterms:dateSubmitted>
+        <z:language>fr-FR</z:language>
+        <dcterms:abstract>Cliquez ici pour obtenir les 12 conseils que les débutants doivent connaitre pour organiser efficacement leurs données sous n'importe quel tableur</dcterms:abstract>
+        <dc:title>12 conseils pour organiser efficacement vos données dans un tableur</dc:title>
+    </bib:Document>
+    <bib:Document rdf:about="https://www.library.qut.edu.au/about/management/documents/QUTTILSDocNamingConvention.pdf">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+            <z:Website>
+               <dc:title>Queensland University of Technology</dc:title>
+            </z:Website>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Division of Technology, Information and Library Services - Queensland University of Technology</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_9277"/>
+                          <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.library.qut.edu.au/about/management/documents/QUTTILSDocNamingConvention.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:date>2015</dc:date>
+        <dcterms:dateSubmitted>2018-01-14 14:04:21</dcterms:dateSubmitted>
+        <dc:title>TILS Document Naming Convention</dc:title>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_9277">
+        <z:itemType>attachment</z:itemType>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.library.qut.edu.au/about/management/documents/QUTTILSDocNamingConvention.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2018-01-31 12:53:09</dcterms:dateSubmitted>
+        <dc:title>QUTTILSDocNamingConvention.pdf</dc:title>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="https://www.gurdon.cam.ac.uk/institute-life/computing/elnguidance?mc_cid=7dce7efa97&amp;mc_eid=[UNIQID]">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website><dc:title>The Gurdon Institute</dc:title></z:Website>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>The Gurdon Institute</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+                          <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.gurdon.cam.ac.uk/institute-life/computing/elnguidance?mc_cid=7dce7efa97&amp;mc_eid=[UNIQID]</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:date>2018</dc:date>
+        <dcterms:dateSubmitted>2018-01-15 10:01:05</dcterms:dateSubmitted>
+        <z:language>en</z:language>
+        <dcterms:abstract>Information for researchers who are interested in adopting an Electronic Lab Notebook system for documenting research and managing data.</dcterms:abstract>
+        <dc:title>Electronic Lab Notebooks - for prospective users</dc:title>
+    </bib:Document>
+    <bib:Article rdf:about="https://peerj.com/preprints/3183">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>5</prism:volume>
+                <dc:title>PeerJ Preprints</dc:title>
+                <dc:identifier>DOI 10.7287/peerj.preprints.3183v1</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Broman</foaf:surname>
+                        <foaf:givenname>Karl W.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Woo</foaf:surname>
+                        <foaf:givenname>Kara H.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_8930"/>
+                                   <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://peerj.com/preprints/3183</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>e3183v1</bib:pages>
+        <dc:date>2017-08-24</dc:date>
+        <dc:description>DOI:</dc:description>
+        <dcterms:dateSubmitted>2018-01-18 07:11:41</dcterms:dateSubmitted>
+        <z:libraryCatalog>peerj.com</z:libraryCatalog>
+        <z:language>en</z:language>
+        <dcterms:abstract>Spreadsheets are widely used software tools for data entry, storage, analysis, and visualization. Focusing on the data entry and storage aspects, this paper offers practical recommendations for organizing spreadsheet data to reduce errors and ease later analyses. The basic principles are: be consistent, write dates like YYYY-MM-DD, don't leave any cells empty, put just one thing in a cell, organize the data as a single rectangle (with subjects as rows and variables as columns, and with a single header row), create a data dictionary, don't include calculations in the raw data files, don't use font color or highlighting as data, choose good names for things, make backups, use data validation to avoid data entry errors, and save the data in plain text file.</dcterms:abstract>
+        <dc:title>Data organization in spreadsheets</dc:title>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_8930">
+        <z:itemType>attachment</z:itemType>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://peerj.com/preprints/3183.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2018-01-18 07:11:43</dcterms:dateSubmitted>
+        <dc:title>Broman_2017_Data_organization.pdf</dc:title>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="http://rd-alliance.github.io/metadata-directory/tools/">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Research Data Alliance</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+                          <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://rd-alliance.github.io/metadata-directory/tools/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2018-01-22 10:55:46</dcterms:dateSubmitted>
+        <dc:title>Metadata Directory</dc:title>
+    </bib:Document>
+    <bib:Document rdf:about="http://www.datacarpentry.org/spreadsheet-ecology-lesson/02-common-mistakes/">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website><dc:title>Data Carpentry</dc:title></z:Website>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Bahlai</foaf:surname>
+                        <foaf:givenname>Christie</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Pawlik</foaf:surname>
+                        <foaf:givenname>Aleksandra</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+                          <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://www.datacarpentry.org/spreadsheet-ecology-lesson/02-common-mistakes/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:date>2017/04</dc:date>
+        <dcterms:dateSubmitted>2018-01-23 08:25:37</dcterms:dateSubmitted>
+        <dc:title>Data Organization in Spreadsheets: Formatting problems</dc:title>
+    </bib:Document>
+    <bib:Document rdf:about="http://nikola.me/folder_structure.html">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website><dc:title>Nikola</dc:title></z:Website>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Vukovic</foaf:surname>
+                        <foaf:givenname>Nikola</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_9082"/>
+                                            <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://nikola.me/folder_structure.html</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2018-01-23 09:23:37</dcterms:dateSubmitted>
+        <dc:title>Setting up an Organised Folder Structure for Research Projects</dc:title>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_9082">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Setting_up_an.png</dc:title>
+        <link:type>image/png</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="https://github.com/steeve/france.code-civil">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Morin</foaf:surname>
+                        <foaf:givenname>Steeve</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+                 <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://github.com/steeve/france.code-civil</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:date>2015</dc:date>
+        <dc:description>original-date: 2015-03-30T22:34:18Z</dc:description>
+        <dcterms:dateSubmitted>2018-01-24 08:21:00</dcterms:dateSubmitted>
+        <dc:title>france.code-civil: Le code civil français sous git</dc:title>
+        <z:shortTitle>france.code-civil</z:shortTitle>
+    </bib:Document>
+    <bib:Illustration rdf:about="https://www.flickr.com/photos/quinnanya/3239528185/">
+        <z:itemType>artwork</z:itemType>
+        <z:artists>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Dombrowski</foaf:surname>
+                        <foaf:givenname>Quinn</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </z:artists>
+        <link:link rdf:resource="#item_9133"/>
+                 <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.flickr.com/photos/quinnanya/3239528185/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:rights>Attribution-ShareAlike License</dc:rights>
+        <dc:date>2009-01-30</dc:date>
+        <dcterms:dateSubmitted>2018-01-24 09:54:23</dcterms:dateSubmitted>
+        <z:medium>photo</z:medium>
+        <z:libraryCatalog>Flickr</z:libraryCatalog>
+        <dcterms:abstract>Someone can't wait for cloud computing...</dcterms:abstract>
+        <dc:title>It happens every year</dc:title>
+    </bib:Illustration>
+    <z:Attachment rdf:about="#item_9133">
+        <z:itemType>attachment</z:itemType>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://farm4.staticflickr.com/3529/3239528185_16b42a2499_o.jpg</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2018-01-24 09:54:26</dcterms:dateSubmitted>
+        <dc:title>2009_It_happens_every.jpg</dc:title>
+        <z:linkMode>1</z:linkMode>
+        <link:type>image/jpg</link:type>
+    </z:Attachment>
+    <rdf:Description rdf:about="http://doranum.fr/wp-content/uploads/FS2_formats_ouverts_fermes_V1.pdf">
+        <z:itemType>document</z:itemType>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Projet DoRANum</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_9220"/>
+                 <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://doranum.fr/wp-content/uploads/FS2_formats_ouverts_fermes_V1.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:date>2017</dc:date>
+        <dcterms:dateSubmitted>2018-01-29 12:32:54</dcterms:dateSubmitted>
+        <dc:title>Les formats ouverts et fermés [Fiche synthétique]</dc:title>
+    </rdf:Description>
+    <z:Attachment rdf:about="#item_9220">
+        <z:itemType>attachment</z:itemType>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://doranum.fr/wp-content/uploads/FS2_formats_ouverts_fermes_V1.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2018-01-29 12:32:54</dcterms:dateSubmitted>
+        <dc:title>FS2_formats_ouverts_fermes_V1.pdf</dc:title>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="https://www.ukdataservice.ac.uk/manage-data/format/recommended-formats">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website><dc:title>UK Data Service</dc:title></z:Website>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>UK Data Service</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+                 <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.ukdataservice.ac.uk/manage-data/format/recommended-formats</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2018-01-29 13:07:31</dcterms:dateSubmitted>
+        <dcterms:abstract>The UK Data Service works with different data formats for different purposes. There are optimal data formats that are used for long-term preservation of data.</dcterms:abstract>
+        <dc:title>Recommended formats</dc:title>
+    </bib:Document>
+    <bib:Document rdf:about="https://www2.le.ac.uk/services/research-data/create-data/file-formats">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website><dc:title>University of Leicester</dc:title></z:Website>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>University of Leicester</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+                          <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www2.le.ac.uk/services/research-data/create-data/file-formats</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2018-01-29 13:21:22</dcterms:dateSubmitted>
+        <z:language>en</z:language>
+        <dcterms:abstract>Research data needs to be saved in a file format that ensures the accessibility and re-usability of your research data in both the short and longer term.</dcterms:abstract>
+        <dc:title>File formats and software</dc:title>
+    </bib:Document>
+    <bib:Document rdf:about="http://doranum.fr/fiche-synthetique-metadonnees-standards-formats/">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website><dc:title>DoRANum</dc:title></z:Website>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Projet DoRANum</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+                          <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://doranum.fr/fiche-synthetique-metadonnees-standards-formats/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2018-01-29 14:54:52</dcterms:dateSubmitted>
+        <z:language>fr-FR</z:language>
+        <dc:title>Métadonnées, standards et formats [Fiche synthétique]</dc:title>
+    </bib:Document>
+    <rdf:Description rdf:about="https://www.coar-repositories.org/files/coar-cv-infog-f_27052042-3.pdf">
+        <z:itemType>document</z:itemType>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Confederation of Open Access Repositories</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_9235"/>
+                                   <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.coar-repositories.org/files/coar-cv-infog-f_27052042-3.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:date>2018</dc:date>
+        <dcterms:dateSubmitted>2018-01-30 10:37:26</dcterms:dateSubmitted>
+        <dc:title>Vocabulaires contrôlés</dc:title>
+    </rdf:Description>
+    <z:Attachment rdf:about="#item_9235">
+        <z:itemType>attachment</z:itemType>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.coar-repositories.org/files/coar-cv-infog-f_27052042-3.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2018-01-30 10:37:26</dcterms:dateSubmitted>
+        <dc:title>coar-cv-infog-f_27052042-3.pdf</dc:title>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="https://zotero.hypotheses.org/756">
+        <z:itemType>blogPost</z:itemType>
+        <dcterms:isPartOf>
+           <z:Blog><dc:title>Le blog Zotero francophone</dc:title></z:Blog>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Flamerie</foaf:surname>
+                        <foaf:givenname>Frédérique</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+                 <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://zotero.hypotheses.org/756</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:date>07/12/2015</dc:date>
+        <dcterms:dateSubmitted>2018-01-30 13:26:05</dcterms:dateSubmitted>
+        <z:type>Billet</z:type>
+        <z:language>fr-FR</z:language>
+        <dcterms:abstract>Ce billet inaugure une série autour de la question de l’organisation des documents dans Zotero. Cette organisation peut en effet s’appuyer sur différents outils − collections, marqueurs et recherche enregistrées − ce qui permet...</dcterms:abstract>
+        <dc:title>Comment organiser sa bibliothèque ?</dc:title>
+    </bib:Document>
+    <bib:Document rdf:about="https://github.com/coateshl/project-mgmt">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Coates</foaf:surname>
+                        <foaf:givenname>Heather</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+                                   <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://github.com/coateshl/project-mgmt</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:date>2017-04-21T16:33:23Z</dc:date>
+        <dc:description>original-date: 2017-04-21T16:16:09Z</dc:description>
+        <dcterms:dateSubmitted>2018-01-31 07:40:11</dcterms:dateSubmitted>
+        <dc:title>project-mgmt: Repository created to provide resources for learning to use GitHub for project management</dc:title>
+        <z:shortTitle>project-mgmt</z:shortTitle>
+    </bib:Document>
+    <bib:Document rdf:about="http://library.stanford.edu/research/data-management-services/case-studies/case-study-basic-metadata">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website><dc:title>Stanford Libraries</dc:title></z:Website>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Stanford Libraries</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+                                            <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://library.stanford.edu/research/data-management-services/case-studies/case-study-basic-metadata</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2018-02-01 08:25:07</dcterms:dateSubmitted>
+        <z:language>en</z:language>
+        <dcterms:abstract>Data management case study describing how to apply basic metadata to a data set to improve the understandability and reusability of the data.</dcterms:abstract>
+        <dc:title>Case study: Basic metadata</dc:title>
+        <z:shortTitle>Case study</z:shortTitle>
+    </bib:Document>
+    <bib:Document rdf:about="http://library.stanford.edu/research/data-management-services/case-studies/case-study-file-naming-done-well">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website><dc:title>Stanford Libraries</dc:title></z:Website>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hodge</foaf:surname>
+                        <foaf:givenname>Amy</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Stanford Libraries</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_9288"/>
+                                   <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://library.stanford.edu/research/data-management-services/case-studies/case-study-file-naming-done-well</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:date>2015</dc:date>
+        <dcterms:dateSubmitted>2018-02-01 08:28:08</dcterms:dateSubmitted>
+        <z:language>en</z:language>
+        <dcterms:abstract>Data management case study that looks at an example of a well-thought out file naming scheme.</dcterms:abstract>
+        <dc:title>Case study: File naming done well</dc:title>
+        <z:shortTitle>Case study</z:shortTitle>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_9288">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>University_Case_study.pdf</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="http://library.stanford.edu/research/data-management-services/case-studies/case-study-spreadsheets">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website><dc:title>Stanford Libraries</dc:title></z:Website>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hodge</foaf:surname>
+                        <foaf:givenname>Amy</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_9389"/>
+                          <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://library.stanford.edu/research/data-management-services/case-studies/case-study-spreadsheets</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2018-02-01 08:29:39</dcterms:dateSubmitted>
+        <z:language>en</z:language>
+        <dcterms:abstract>Data management case study of poorly-formatted spreadsheets and what could be done to improve the ease of use of the data in the future.</dcterms:abstract>
+        <dc:title>Case study: Spreadsheets</dc:title>
+        <z:shortTitle>Case study</z:shortTitle>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_9389">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>University_Case_study.pdf</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="http://library.stanford.edu/research/data-management-services/data-best-practices/creating-metadata/basic-approach-metadata">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website><dc:title>Stanford Libraries</dc:title></z:Website>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Stanford Libraries</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+                          <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://library.stanford.edu/research/data-management-services/data-best-practices/creating-metadata/basic-approach-metadata</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2018-02-01 16:08:00</dcterms:dateSubmitted>
+        <z:language>en</z:language>
+        <dcterms:abstract>Simple ways to improve how you document your data and research outputs.</dcterms:abstract>
+        <dc:title>Basic approach to metadata</dc:title>
+    </bib:Document>
+    <bib:Document rdf:about="http://library.stanford.edu/research/data-management-services/data-best-practices/creating-metadata/advanced-metadata">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website><dc:title>Stanford Libraries</dc:title></z:Website>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Stanford</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+                                   <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://library.stanford.edu/research/data-management-services/data-best-practices/creating-metadata/advanced-metadata</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2018-02-01 16:28:21</dcterms:dateSubmitted>
+        <z:language>en</z:language>
+        <dcterms:abstract>How to approach creating more formalized metadata for your data and other research outputs.</dcterms:abstract>
+        <dc:title>Advanced metadata</dc:title>
+    </bib:Document>
+    <bib:Document rdf:about="https://tomwallis.info/2014/02/05/version-control-part-1-local-repository/">
+        <z:itemType>blogPost</z:itemType>
+        <dcterms:isPartOf>
+           <z:Blog><dc:title>Practical Vision Science</dc:title></z:Blog>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Wallis</foaf:surname>
+                        <foaf:givenname>Thomas</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+                                   <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://tomwallis.info/2014/02/05/version-control-part-1-local-repository/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:date>2014-02-05T12:59:29+00:00</dc:date>
+        <dcterms:dateSubmitted>2018-02-06 08:20:30</dcterms:dateSubmitted>
+        <z:language>en</z:language>
+        <dcterms:abstract>Previously I talked about setting up a project directory. Now I’ll run through the first stages of something I see as an integral part of reproducible research: version control. Why version c…</dcterms:abstract>
+        <dc:title>Version control Part 1: Local repository</dc:title>
+        <z:shortTitle>Version control Part 1</z:shortTitle>
+    </bib:Document>
+    <bib:Document rdf:about="https://tomwallis.info/2014/02/27/version-control-part-2-remote-repository/">
+        <z:itemType>blogPost</z:itemType>
+        <dcterms:isPartOf>
+           <z:Blog><dc:title>Practical Vision Science</dc:title></z:Blog>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Wallis</foaf:surname>
+                        <foaf:givenname>Thomas</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+                                            <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://tomwallis.info/2014/02/27/version-control-part-2-remote-repository/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:date>2014-02-27T17:39:43+00:00</dc:date>
+        <dcterms:dateSubmitted>2018-02-06 08:20:53</dcterms:dateSubmitted>
+        <z:language>en</z:language>
+        <dcterms:abstract>The second stage in my version control workflow is to push my local changes to a remote repository. A remote repository is basically an identical repository to the one stored locally on your comput…</dcterms:abstract>
+        <dc:title>Version control Part 2: Remote repository</dc:title>
+        <z:shortTitle>Version control Part 2</z:shortTitle>
+    </bib:Document>
+    <bib:Document rdf:about="https://www2.le.ac.uk/services/research-data/organise-data/version-control">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website><dc:title>University of Leicester</dc:title></z:Website>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>University of Leicester</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+                          <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www2.le.ac.uk/services/research-data/organise-data/version-control</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2018-02-06 09:39:45</dcterms:dateSubmitted>
+        <z:language>en</z:language>
+        <dcterms:abstract>Version control is the means by which different versions and drafts of a document (or file or record or dataset) are managed.</dcterms:abstract>
+        <dc:title>Version control</dc:title>
+    </bib:Document>
+    <bib:Document rdf:about="https://programminghistorian.org/lessons/getting-started-with-github-desktop">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website><dc:title>Programming Historian</dc:title></z:Website>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Strien</foaf:surname>
+                        <foaf:givenname>Daniel van</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+                                   <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://programminghistorian.org/lessons/getting-started-with-github-desktop</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:date>2016-06-17</dc:date>
+        <dcterms:dateSubmitted>2018-02-06 10:40:18</dcterms:dateSubmitted>
+        <z:language>en</z:language>
+        <dc:title>An Introduction to Version Control Using GitHub Desktop</dc:title>
+    </bib:Document>
+    <bib:Article rdf:about="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5370619/">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:1536-5050"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Foster</foaf:surname>
+                        <foaf:givenname>Erin D.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Deardorff</foaf:surname>
+                        <foaf:givenname>Ariel</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_9371"/>
+        <link:link rdf:resource="#item_9370"/>
+                                            <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5370619/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>203-206</bib:pages>
+        <dc:date>2017-4</dc:date>
+        <dc:description>PMID: null
+PMCID: PMC5370619</dc:description>
+        <dcterms:dateSubmitted>2018-02-06 10:47:25</dcterms:dateSubmitted>
+        <z:libraryCatalog>PubMed Central</z:libraryCatalog>
+        <dc:title>Open Science Framework (OSF)</dc:title>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:1536-5050">
+        <prism:volume>105</prism:volume>
+        <prism:number>2</prism:number>
+        <dc:title>Journal of the Medical Library Association : JMLA</dc:title>
+        <dc:identifier>ISSN 1536-5050</dc:identifier>
+        <dcterms:alternative>J Med Libr Assoc</dcterms:alternative>
+        <dc:identifier>DOI 10.5195/jmla.2017.88</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_9371">
+        <z:itemType>attachment</z:itemType>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5370619/pdf/jmla-105-203.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2018-02-06 10:47:28</dcterms:dateSubmitted>
+        <dc:title>Foster_2017_Open_Science.pdf</dc:title>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_9370">
+        <z:itemType>attachment</z:itemType>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5370619/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2018-02-06 10:47:26</dcterms:dateSubmitted>
+        <dc:title>PubMed Central Link</dc:title>
+        <z:linkMode>3</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://doi.org/10.1186/s13059-016-1044-7">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>17</prism:volume>
+                <dc:title>Genome Biology</dc:title>
+                <dc:identifier>ISSN 1474-760X</dc:identifier>
+                <dcterms:alternative>Genome Biology</dcterms:alternative>
+                <dc:identifier>DOI 10.1186/s13059-016-1044-7</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ziemann</foaf:surname>
+                        <foaf:givenname>Mark</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Eren</foaf:surname>
+                        <foaf:givenname>Yotam</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>El-Osta</foaf:surname>
+                        <foaf:givenname>Assam</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_9377"/>
+                                   <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://doi.org/10.1186/s13059-016-1044-7</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>177</bib:pages>
+        <dc:date>August 23, 2016</dc:date>
+        <dcterms:dateSubmitted>2018-02-06 14:08:35</dcterms:dateSubmitted>
+        <z:libraryCatalog>BioMed Central</z:libraryCatalog>
+        <dcterms:abstract>The spreadsheet software Microsoft Excel, when used with default settings, is known to convert gene names to dates and floating-point numbers. A programmatic scan of leading genomics journals reveals that approximately one-fifth of papers with supplementary Excel gene lists contain erroneous gene name conversions.</dcterms:abstract>
+        <dc:title>Gene name errors are widespread in the scientific literature</dc:title>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_9377">
+        <z:itemType>attachment</z:itemType>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://genomebiology.biomedcentral.com/track/pdf/10.1186/s13059-016-1044-7?site=genomebiology.biomedcentral.com</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2018-02-06 14:08:37</dcterms:dateSubmitted>
+        <dc:title>Full Text PDF</dc:title>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="http://datacolada.org/69">
+        <z:itemType>blogPost</z:itemType>
+        <dcterms:isPartOf>
+           <z:Blog><dc:title>Data Colada</dc:title></z:Blog>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Simonsohn</foaf:surname>
+                        <foaf:givenname>Uri</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+                                   <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://datacolada.org/69</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:date>2018-02-06T12:00:50+00:00</dc:date>
+        <dcterms:dateSubmitted>2018-02-07 07:30:02</dcterms:dateSubmitted>
+        <z:language>en-US</z:language>
+        <dcterms:abstract>It is now common for researchers to post original materials, data, and/or code behind their published research. That’s obviously great, but open research is often difficult to find and understand. …</dcterms:abstract>
+        <dc:title>[69] Eight things I do to make my open research more findable and understandable</dc:title>
+    </bib:Document>
+    <bib:Article rdf:about="http://www.datacarpentry.org/spreadsheet-ecology-lesson/">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Journal><dc:title>Data Carpentry</dc:title></bib:Journal>
+        </dcterms:isPartOf>
+        <bib:editors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Bahlai</foaf:surname>
+                        <foaf:givenname>Christie</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Teal</foaf:surname>
+                        <foaf:givenname>Tracy</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:editors>
+                                                     <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://www.datacarpentry.org/spreadsheet-ecology-lesson/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:date>2017/04</dc:date>
+        <dcterms:dateSubmitted>2018-02-07 08:48:46</dcterms:dateSubmitted>
+        <dc:title>Data Carpentry: Data Organization in Spreadsheets Ecology lesson</dc:title>
+    </bib:Article>
+    <bib:ConferenceProceedings rdf:about="http://conservancy.umn.edu/handle/11299/171966">
+        <z:itemType>presentation</z:itemType>
+        <z:presenters>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>McGrory</foaf:surname>
+                        <foaf:givenname>John</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </z:presenters>
+        <link:link rdf:resource="#item_9388"/>
+                          <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://conservancy.umn.edu/handle/11299/171966</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:date>2015</dc:date>
+        <dcterms:dateSubmitted>2018-02-07 09:36:14</dcterms:dateSubmitted>
+        <z:language>en</z:language>
+        <dcterms:abstract>This poster presents the Excel Archival Tool, a script that was created to programmatically convert Microsoft Excel files into open source formats suitable for long-term archival. This is accomplished by using Visual Basic Script to convert Excel workbooks (.xls and .xlsx) into comma-separated value files (.csv), while also extracting charts/figures (in .png images), cell formulas (in .txt files), and formatting/styling information (in HTML snapshots). This tool is most useful for large Excel data sets that would otherwise require large amounts of tedious work to convert manually.</dcterms:abstract>
+        <dc:title>Poster for &quot;Excel Archival Tool: Automating the Spreadsheet Conversion Process&quot;</dc:title>
+        <z:shortTitle>Poster for &quot;Excel Archival Tool</z:shortTitle>
+    </bib:ConferenceProceedings>
+    <z:Attachment rdf:about="#item_9388">
+        <z:itemType>attachment</z:itemType>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://conservancy.umn.edu/bitstream/11299/171966/2/Poster.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2018-02-07 09:36:18</dcterms:dateSubmitted>
+        <dc:title>McGrory_2015_Poster_for_Excel.pdf</dc:title>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="https://www.ukdataservice.ac.uk/manage-data/store/security">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website><dc:title>UK Data Service</dc:title></z:Website>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>UK Data Service</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+                          <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.ukdataservice.ac.uk/manage-data/store/security</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2018-02-08 16:55:04</dcterms:dateSubmitted>
+        <dcterms:abstract>A data storage strategy is important because digital storage media are inherently unreliable and all file formats and physical storage media will ultimately become obsolete.</dcterms:abstract>
+        <dc:title>Data security</dc:title>
+    </bib:Document>
+    <bib:Article rdf:about="#item_9430">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <dc:identifier>DOI 10.4121/uuid:b55184a0-930d-4b5c-940b-fd3038e05d83</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>De Valença</foaf:surname>
+                        <foaf:givenname>Joeri C.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kurniawan</foaf:surname>
+                        <foaf:givenname>Aziz</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Wagterveld</foaf:surname>
+                        <foaf:givenname>R. Martijn</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Wood</foaf:surname>
+                        <foaf:givenname>Jeffery A.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Lammertink</foaf:surname>
+                        <foaf:givenname>Rob G. H.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_9431"/>
+                 <dc:date>2017</dc:date>
+        <dc:description>type: dataset</dc:description>
+        <z:libraryCatalog>DataCite</z:libraryCatalog>
+        <z:language>en</z:language>
+        <dcterms:abstract>Image data and MATLAB models belonging to the publication: Influence of Rayleigh-Bénard convection on electrokinetic instability in overlimiting current conditions, Physical Review Fluids 2, 033701 (2017)</dcterms:abstract>
+        <dc:title>Influence of Rayleigh-Bénard convection on electrokinetic instability in overlimiting current conditions</dc:title>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_9431">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>De_Valenca_2017_Influence_of.txt</dc:title>
+        <link:type>text/plain</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://zenodo.org/record/1063932#.WoFooGfff7w">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <dc:title>Zenodo</dc:title>
+                <dc:identifier>DOI 10.5281/zenodo.1063932</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Wilkinson</foaf:surname>
+                        <foaf:givenname>Toby C.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+                                   <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://zenodo.org/record/1063932#.WoFooGfff7w</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:date>2017-11-24</dc:date>
+        <dc:description>type: dataset</dc:description>
+        <dcterms:dateSubmitted>2018-02-12 10:15:00</dcterms:dateSubmitted>
+        <z:libraryCatalog>Zenodo</z:libraryCatalog>
+        <dcterms:abstract>This forms part of the preliminary open data release for the Project Panormos archaeological survey. This &quot;panormos/survey-design&quot; repository contains data collection templates used to record the survey data (particularly the intensive part of the survey), both electronic versions based on XLSForm and XForm format (e.g. and access with ODK software), as well as paper forms (such as walker collection books).  Release 0.1.0 includes templates from the 2015 season. The design of the forms is released under a CC BY-SA license, which means that users may re-use, adapt and create derivative versions on condition that the source is attributed and that any modified versions are released under the same terms. Releases below 1.0.0 represent preprint working datasets before final publication. Although every effort has been made to reduce errors and make the datasets available in a form that should be easy to navigate, the status of the data as a form of &quot;beta&quot; should be borne in mind.</dcterms:abstract>
+        <dc:title>Project Panormos Archaeological Survey: Method Design (survey-design)</dc:title>
+        <z:shortTitle>Project Panormos Archaeological Survey</z:shortTitle>
+    </bib:Article>
+    <bib:Article rdf:about="#item_9550">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+               <dc:identifier>DOI 10.5061/dryad.dh3h417</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Samuk</foaf:surname>
+                        <foaf:givenname>Kieran</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Xue</foaf:surname>
+                        <foaf:givenname>Jan</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Rennison</foaf:surname>
+                        <foaf:givenname>Diana Jessie</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_9585"/>
+        <link:link rdf:resource="#item_9551"/>
+                                            <dc:date>2018-02-02</dc:date>
+        <dc:description>type: dataset</dc:description>
+        <dcterms:dateSubmitted>2018-02-19 07:58:23</dcterms:dateSubmitted>
+        <z:libraryCatalog>datadryad.org</z:libraryCatalog>
+        <z:language>en</z:language>
+        <dcterms:abstract>Natural selection is often invoked to explain differences in brain size among vertebrates. However, the particular agents of selection that shape brain size variation remain obscure. Recent studies suggest that predators may select for larger brains because increased cognitive and sensory abilities allow prey to better elude predators. Yet, there is little direct evidence that exposure to predators causes the evolution of larger brains in prey species. We experimentally tested this prediction by exposing families of 1000-2000 F2 hybrid benthic-limnetic threespine stickleback to predators under naturalistic conditions, along with matched controls. After two generations of selection, we found that fish from the predator addition treatment had significantly smaller brains (specifically smaller telencephalons and optic lobes) than fish from the control treatment. After an additional generation of selection, we reared experimental fish in a common environment and found that this difference in brain size was maintained in the offspring of fish from the predator addition treatment. Our results provide direct experimental evidence that (a) predators can indeed drive the evolution of brain size – but not in the fashion commonly expected and (b) that the tools of experimental evolution can be used to the study the evolution of the vertebrate brain.</dcterms:abstract>
+        <dc:title>Data from: Exposure to predators does not lead to the evolution of larger brains in experimental populations of threespine stickleback</dc:title>
+        <z:archive>Dryad Digital Repository</z:archive>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_9585">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Samuk_2018_Data_from.jpg</dc:title>
+        <link:type>image/jpeg</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_9551">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Samuk_2018_Data_from.txt</dc:title>
+        <link:type>text/plain</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="http://kbroman.org/dataorg/">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Broman</foaf:surname>
+                        <foaf:givenname>Karl W.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+                 <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://kbroman.org/dataorg/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2018-02-19 10:52:18</dcterms:dateSubmitted>
+        <dc:title>data organization : organizing data in spreadsheets</dc:title>
+    </bib:Document>
+    <bib:Document rdf:about="https://consciences.hypotheses.org/1184">
+        <z:itemType>blogPost</z:itemType>
+        <dcterms:isPartOf>
+           <z:Blog><dc:title>Acquis de conscience</dc:title></z:Blog>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Muller</foaf:surname>
+                        <foaf:givenname>Caroline</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+                                   <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://consciences.hypotheses.org/1184</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:date>04/03/2018</dc:date>
+        <dcterms:dateSubmitted>2018-03-05 13:55:47</dcterms:dateSubmitted>
+        <z:type>Billet</z:type>
+        <z:language>fr-FR</z:language>
+        <dcterms:abstract>Une conversation a eu lieu hier sur Twitter au sujet de Zotero, l’outil de bibliographie désormais bien connu développé par le Roy Rosenzweig Center for History and New Media. Les différents arguments – pour, contre, pour mais-sous-conditions– m’ont donné envie de faire le point sur ma propre pratique du logiciel, les atouts que j’y vois … Continuer la lecture de Cinq ans d’usage de Zotero, un bilan →</dcterms:abstract>
+        <dc:title>Cinq ans d’usage de Zotero, un bilan</dc:title>
+    </bib:Document>
+    <bib:Document rdf:about="https://github.com/HackYourPhd/ateliers-open-geek/blob/master/Atelier_05_biblio_zotero/Atelier_05.md">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website><dc:title>HackYourPhd [GitHub]</dc:title></z:Website>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Gruson-Daniel</foaf:surname>
+                        <foaf:givenname>Célya</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+                                   <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://github.com/HackYourPhd/ateliers-open-geek/blob/master/Atelier_05_biblio_zotero/Atelier_05.md</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:date>2016/11</dc:date>
+        <dc:description>original-date: 2014-10-14T11:59:40Z</dc:description>
+        <dcterms:dateSubmitted>2018-03-07 14:06:42</dcterms:dateSubmitted>
+        <dc:title>Atelier #05 : La biblio, c’est fantastique ! : découverte de Zotero</dc:title>
+        <z:shortTitle>ateliers-open-geek</z:shortTitle>
+    </bib:Document>
+    <bib:Document rdf:about="https://tribuneci.wordpress.com/2016/10/11/zotlog-structurer-son-parcours-de-recherche-avec-zotero/">
+        <z:itemType>blogPost</z:itemType>
+        <dcterms:isPartOf>
+            <z:Blog>
+               <dc:title>Tribune Compétences Informationnelles</dc:title>
+            </z:Blog>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Martinolli</foaf:surname>
+                        <foaf:givenname>Pascal</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+                                   <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://tribuneci.wordpress.com/2016/10/11/zotlog-structurer-son-parcours-de-recherche-avec-zotero/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:date>11/10/2016</dc:date>
+        <dcterms:dateSubmitted>2018-03-07 14:13:02</dcterms:dateSubmitted>
+        <z:type>Billet</z:type>
+        <dc:title>ZotLog : structurer son parcours de recherche avec Zotero</dc:title>
+    </bib:Document>
+</rdf:RDF>

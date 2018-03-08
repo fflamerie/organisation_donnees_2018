@@ -1,6 +1,6 @@
 
 # Documenter
-[icone_documenter](img/icone_documenter.png)
+![icone_documenter](img/icone_documenter.png)
 
 Documenter =
 * décrire

@@ -1,18 +1,15 @@
-<!-- $theme: default-->
-<!-- page_number: true -->
-<!-- $size: 16:9 -->
 
 # Organiser efficacement ses données
 # Trame
 **Urfist Bordeaux**
 23 mars 2018
-Matériel du cours en ligne [ici](https://github.com/fflamerie/organisation_donnees_2018)
-<small>
-*Frédérique Flamerie*
-*chargée de mission science ouverte/données de la recherche*
+
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/fr/"><img alt="Licence Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/3.0/fr/88x31.png" /></a><br />Les supports sont mis à disposition selon les termes de la <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/fr/">Licence Creative Commons Attribution -  Partage dans les Mêmes Conditions 3.0 France</a> 
+
+*Frédérique Flamerie* - *chargée de mission science ouverte/données de la recherche*
+
 *Université de Bordeaux - Direction de la Documentation*
-</small>
-![licence_cc 50%](img/by-sa.png)
+
 
 
 ---
@@ -35,13 +32,13 @@ Matériel du cours en ligne [ici](https://github.com/fflamerie/organisation_donn
 ---
 
 # Programme
-Théâtre : Molière  _Le Bourgeois gentilhomme_
-Poésie : Rimbaud "Je est un autre"
-Des outils
-Des fiches thématiques
-Beaucoup d'exemples
-Analyse de vos méthodes actuelles et premières réflexions d'amélioration
-Des questions avec ![pingo 50%](img/icone_pingo.png) @ **https://huit.re/org_donnees_questions**
+* Théâtre : Molière  _Le Bourgeois gentilhomme_
+* Poésie : Rimbaud "Je est un autre"
+* Des outils
+* Des fiches thématiques
+* Beaucoup d'exemples
+* Analyse de vos méthodes actuelles et premières réflexions d'amélioration
+* Des questions avec ![pingo 50%](img/icone_pingo.png) @ **https://huit.re/org_donnees_questions**
 
 ## Et à un moment : pause :coffee: ou :tea: ou :tropical_drink:
 

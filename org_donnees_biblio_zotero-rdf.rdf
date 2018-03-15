@@ -24,7 +24,10 @@
             </rdf:Seq>
         </bib:authors>
         <link:link rdf:resource="#item_144"/>
-                                   <dc:identifier>
+
+
+
+        <dc:identifier>
             <dcterms:URI>
                 <rdf:value>https://unlockingresearch.blog.lib.cam.ac.uk/?p=975</rdf:value>
             </dcterms:URI>
@@ -67,7 +70,11 @@
         <link:link rdf:resource="#item_8028"/>
         <link:link rdf:resource="#item_8029"/>
         <link:link rdf:resource="#item_8030"/>
-                                            <dc:identifier>
+
+
+
+
+        <dc:identifier>
             <dcterms:URI>
                <rdf:value>https://zenodo.org/record/239090</rdf:value>
             </dcterms:URI>
@@ -132,6 +139,34 @@ The workshop works best when adapted for a particular discipline and with a maxi
         <dc:title>Higman_2017_Template_Research.txt</dc:title>
         <link:type>text/plain</link:type>
     </z:Attachment>
+    <bib:Document rdf:about="http://www.stm-publishing.com/wiley-announces-new-data-sharing-and-citation-policies-to-improve-transparency-in-research/">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website><dc:title>STM Publishing News</dc:title></z:Website>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>STM Publishing News</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+
+
+
+
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://www.stm-publishing.com/wiley-announces-new-data-sharing-and-citation-policies-to-improve-transparency-in-research/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:date>2017-09-14</dc:date>
+        <dcterms:dateSubmitted>2017-09-15 07:25:17</dcterms:dateSubmitted>
+        <dcterms:abstract>Click here to view the image...</dcterms:abstract>
+        <dc:title>Wiley announces new Data Sharing and Citation policies to improve transparency in research</dc:title>
+    </bib:Document>
     <bib:Document rdf:about="https://eos.org/editors-vox/do-you-expect-me-to-just-give-away-my-data">
         <z:itemType>blogPost</z:itemType>
         <dcterms:isPartOf>
@@ -147,7 +182,13 @@ The workshop works best when adapted for a particular discipline and with a maxi
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-                                                              <dc:identifier>
+
+
+
+
+
+
+        <dc:identifier>
             <dcterms:URI>
                 <rdf:value>https://eos.org/editors-vox/do-you-expect-me-to-just-give-away-my-data</rdf:value>
             </dcterms:URI>
@@ -171,7 +212,9 @@ The workshop works best when adapted for a particular discipline and with a maxi
             </rdf:Seq>
         </z:artists>
         <link:link rdf:resource="#item_3896"/>
-                          <dc:identifier>
+
+
+        <dc:identifier>
             <dcterms:URI>
                 <rdf:value>http://libguides.library.cqu.edu.au/researchdatamanagement</rdf:value>
             </dcterms:URI>
@@ -204,7 +247,12 @@ The workshop works best when adapted for a particular discipline and with a maxi
             </rdf:Seq>
         </bib:authors>
         <link:link rdf:resource="#item_3990"/>
-                                                     <dc:identifier>
+
+
+
+
+
+        <dc:identifier>
             <dcterms:URI>
                 <rdf:value>http://www.liberquarterly.eu/article/10.18352/lq.10215/</rdf:value>
             </dcterms:URI>
@@ -254,7 +302,10 @@ The workshop works best when adapted for a particular discipline and with a maxi
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-                                   <dc:identifier>
+
+
+
+        <dc:identifier>
             <dcterms:URI>
                 <rdf:value>https://data.research.cornell.edu/content/tabular-data</rdf:value>
             </dcterms:URI>
@@ -277,7 +328,13 @@ The workshop works best when adapted for a particular discipline and with a maxi
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-                                                              <dc:identifier>
+
+
+
+
+
+
+        <dc:identifier>
             <dcterms:URI>
                 <rdf:value>https://programminghistorian.org/lessons/preserving-your-research-data</rdf:value>
             </dcterms:URI>
@@ -301,7 +358,11 @@ The workshop works best when adapted for a particular discipline and with a maxi
             </rdf:Seq>
         </bib:authors>
         <link:link rdf:resource="#item_4265"/>
-                                            <dc:identifier>
+
+
+
+
+        <dc:identifier>
             <dcterms:URI>
                <rdf:value>https://doi.org/10.1186/s13059-015-0850-7</rdf:value>
             </dcterms:URI>
@@ -357,7 +418,11 @@ The workshop works best when adapted for a particular discipline and with a maxi
         </bib:editors>
         <link:link rdf:resource="#item_9442"/>
         <link:link rdf:resource="#item_9443"/>
-                                            <dc:identifier>
+
+
+
+
+        <dc:identifier>
             <dcterms:URI>
                 <rdf:value>http://dx.plos.org/10.1371/journal.pcbi.1000424</rdf:value>
             </dcterms:URI>
@@ -403,7 +468,10 @@ The workshop works best when adapted for a particular discipline and with a maxi
             </rdf:Seq>
         </bib:authors>
         <link:link rdf:resource="#item_9233"/>
-                                   <dc:identifier>
+
+
+
+        <dc:identifier>
             <dcterms:URI>
                 <rdf:value>https://data.research.cornell.edu/content/readme</rdf:value>
             </dcterms:URI>
@@ -430,7 +498,10 @@ The workshop works best when adapted for a particular discipline and with a maxi
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-                                   <dc:identifier>
+
+
+
+        <dc:identifier>
             <dcterms:URI>
                 <rdf:value>https://www2.le.ac.uk/services/research-data/organise-data</rdf:value>
             </dcterms:URI>
@@ -439,6 +510,38 @@ The workshop works best when adapted for a particular discipline and with a maxi
         <z:language>en</z:language>
         <dcterms:abstract>How do you find the research data you and your collaborators have created, gathered and manipulated? As time passes and data volumes and file numbers increase how do you prevent the issue becoming unmanageable? It is very easy for research (and any other) data to become disorganised, and data organisation isn’t going to be top of your list of priorities. However data organisation is time well spent. Use file and folder structures, and name, describe and document your data. This will save time, reduce errors and enable you and others to find and understand what you have done. Practical methods and processes, used consistently are required.</dcterms:abstract>
         <dc:title>Organise data</dc:title>
+    </bib:Document>
+    <bib:Document rdf:about="http://www.nicebread.de/open-science-hiring-practices/">
+        <z:itemType>blogPost</z:itemType>
+        <dcterms:isPartOf>
+           <z:Blog><dc:title>Nicebread</dc:title></z:Blog>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Schönbrodt</foaf:surname>
+                        <foaf:givenname>Felix</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+
+
+
+
+
+
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://www.nicebread.de/open-science-hiring-practices/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:date>2016-01-06T15:27:03+00:00</dc:date>
+        <dcterms:dateSubmitted>2017-10-20 09:24:01</dcterms:dateSubmitted>
+        <dcterms:abstract>Engaging in open science practices increases knowledge as a common good, and ensures the reproducibility, verifiability and credibility of research. But some have the fear that on an individual strategic level (in particular from an early career perspective) engaging in research transparency could r…</dcterms:abstract>
+        <dc:title>Changing hiring practices towards research transparency: The first open science statement in a professorship advertisement</dc:title>
+        <z:shortTitle>Changing hiring practices towards research transparency</z:shortTitle>
     </bib:Document>
     <bib:Report rdf:about="http://www.niso.org/apps/group_public/download.php/15375/PrimerRDM-2015-0727.pdf">
         <z:itemType>report</z:itemType>
@@ -463,7 +566,10 @@ The workshop works best when adapted for a particular discipline and with a maxi
             </rdf:Seq>
         </bib:authors>
         <link:link rdf:resource="#item_4373"/>
-                                   <dc:identifier>
+
+
+
+        <dc:identifier>
             <dcterms:URI>
                 <rdf:value>http://www.niso.org/apps/group_public/download.php/15375/PrimerRDM-2015-0727.pdf</rdf:value>
             </dcterms:URI>
@@ -497,7 +603,8 @@ The workshop works best when adapted for a particular discipline and with a maxi
             </rdf:Seq>
         </z:artists>
         <link:link rdf:resource="#item_8095"/>
-                 <dc:identifier>
+
+        <dc:identifier>
             <dcterms:URI>
                 <rdf:value>http://phdcomics.com/comics/archive.php?comicid=1531</rdf:value>
             </dcterms:URI>
@@ -526,7 +633,8 @@ The workshop works best when adapted for a particular discipline and with a maxi
             </rdf:Seq>
         </z:artists>
         <link:link rdf:resource="#item_8094"/>
-                 <dc:identifier>
+
+        <dc:identifier>
             <dcterms:URI>
                 <rdf:value>http://phdcomics.com/comics/archive.php?comicid=1323</rdf:value>
             </dcterms:URI>
@@ -563,7 +671,11 @@ The workshop works best when adapted for a particular discipline and with a maxi
             </rdf:Seq>
         </bib:authors>
         <link:link rdf:resource="#item_7417"/>
-                                            <dc:date>2017-06-20</dc:date>
+
+
+
+
+        <dc:date>2017-06-20</dc:date>
         <dc:description>DOI: 10.24396/ORDAR-1</dc:description>
         <z:libraryCatalog>DataCite</z:libraryCatalog>
         <z:language>FRENCH</z:language>
@@ -591,7 +703,9 @@ The workshop works best when adapted for a particular discipline and with a maxi
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-                          <dc:identifier>
+
+
+        <dc:identifier>
             <dcterms:URI>
                 <rdf:value>https://www.ukdataservice.ac.uk/manage-data/format/versioning</rdf:value>
             </dcterms:URI>
@@ -615,7 +729,11 @@ The workshop works best when adapted for a particular discipline and with a maxi
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-                                            <dc:identifier>
+
+
+
+
+        <dc:identifier>
             <dcterms:URI>
                 <rdf:value>http://software-carpentry.org//blog/2017/10/oliver-fave.html</rdf:value>
             </dcterms:URI>
@@ -641,7 +759,12 @@ The workshop works best when adapted for a particular discipline and with a maxi
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-                                                     <dc:identifier>
+
+
+
+
+
+        <dc:identifier>
             <dcterms:URI>
                 <rdf:value>http://blogs.bl.uk/digital-scholarship/2017/12/cleaning-and-visualising-privy-council-appeals-data.html</rdf:value>
             </dcterms:URI>
@@ -663,7 +786,9 @@ The workshop works best when adapted for a particular discipline and with a maxi
             </rdf:Seq>
         </z:presenters>
         <link:link rdf:resource="#item_8020"/>
-                          <dc:identifier>
+
+
+        <dc:identifier>
             <dcterms:URI>
                 <rdf:value>https://www.slideshare.net/CTobinMagle/data-and-donuts-data-organization</rdf:value>
             </dcterms:URI>
@@ -694,7 +819,9 @@ The workshop works best when adapted for a particular discipline and with a maxi
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-                          <dc:identifier>
+
+
+        <dc:identifier>
             <dcterms:URI>
                 <rdf:value>https://tomwallis.info/2014/01/16/setting-up-a-project-directory/</rdf:value>
             </dcterms:URI>
@@ -720,7 +847,10 @@ The workshop works best when adapted for a particular discipline and with a maxi
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-                                   <dc:identifier>
+
+
+
+        <dc:identifier>
             <dcterms:URI>
                <rdf:value>http://mantra.edina.ac.uk/organisingdata/</rdf:value>
             </dcterms:URI>
@@ -751,7 +881,10 @@ The workshop works best when adapted for a particular discipline and with a maxi
         </z:presenters>
         <link:link rdf:resource="#item_8070"/>
         <link:link rdf:resource="#item_8074"/>
-                                   <dc:identifier>
+
+
+
+        <dc:identifier>
             <dcterms:URI>
                 <rdf:value>https://libraries.mit.edu/data-management/files/2014/05/FileOrgSlides_20170118sm.pdf</rdf:value>
             </dcterms:URI>
@@ -798,7 +931,9 @@ The workshop works best when adapted for a particular discipline and with a maxi
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-                          <dc:identifier>
+
+
+        <dc:identifier>
             <dcterms:URI>
                 <rdf:value>https://libguides.mit.edu/c.php?g=176344&amp;p=1160756</rdf:value>
             </dcterms:URI>
@@ -829,7 +964,11 @@ The workshop works best when adapted for a particular discipline and with a maxi
             </rdf:Seq>
         </z:presenters>
         <link:link rdf:resource="#item_8076"/>
-                                            <dc:identifier>
+
+
+
+
+        <dc:identifier>
             <dcterms:URI>
                 <rdf:value>https://libraries.mit.edu/data-management/files/2014/05/rdm101_IAP2016_20160112-1.pdf</rdf:value>
             </dcterms:URI>
@@ -867,7 +1006,10 @@ The workshop works best when adapted for a particular discipline and with a maxi
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-                                   <dc:identifier>
+
+
+
+        <dc:identifier>
             <dcterms:URI>
                 <rdf:value>http://mantra.edina.ac.uk/fileformatandtransformation/</rdf:value>
             </dcterms:URI>
@@ -892,7 +1034,10 @@ The workshop works best when adapted for a particular discipline and with a maxi
             </rdf:Seq>
         </bib:authors>
         <link:link rdf:resource="#item_9429"/>
-                                   <dc:identifier>
+
+
+
+        <dc:identifier>
             <dcterms:URI>
                 <rdf:value>http://mantra.edina.ac.uk/documentation_metadata_citation/</rdf:value>
             </dcterms:URI>
@@ -925,7 +1070,12 @@ The workshop works best when adapted for a particular discipline and with a maxi
         <link:link rdf:resource="#item_9090"/>
         <link:link rdf:resource="#item_9089"/>
         <link:link rdf:resource="#item_9092"/>
-                                                     <dc:identifier>
+
+
+
+
+
+        <dc:identifier>
             <dcterms:URI>
                <rdf:value>http://mantra.edina.ac.uk/libtraining.html</rdf:value>
             </dcterms:URI>
@@ -969,7 +1119,10 @@ The workshop works best when adapted for a particular discipline and with a maxi
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-                                   <dc:identifier>
+
+
+
+        <dc:identifier>
             <dcterms:URI>
                 <rdf:value>http://mantra.edina.ac.uk/storageandsecurity/</rdf:value>
             </dcterms:URI>
@@ -990,7 +1143,10 @@ The workshop works best when adapted for a particular discipline and with a maxi
             </rdf:Seq>
         </bib:authors>
         <link:link rdf:resource="#item_8266"/>
-                                   <dc:identifier>
+
+
+
+        <dc:identifier>
             <dcterms:URI>
                 <rdf:value>https://www.wur.nl/upload_mm/d/4/9/fec82c96-d901-49c2-8205-c40a2e819ee7_Data_Management_Plan_Lucie_Vermeulen.pdf</rdf:value>
             </dcterms:URI>
@@ -1016,7 +1172,9 @@ The workshop works best when adapted for a particular discipline and with a maxi
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-                          <dc:identifier>
+
+
+        <dc:identifier>
             <dcterms:URI>
                 <rdf:value>http://datasupport.researchdata.nl/en/start-the-course/iii-the-research-phase/storing-data/</rdf:value>
             </dcterms:URI>
@@ -1038,7 +1196,9 @@ The workshop works best when adapted for a particular discipline and with a maxi
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-                          <dc:identifier>
+
+
+        <dc:identifier>
             <dcterms:URI>
                 <rdf:value>https://www.ukdataservice.ac.uk/manage-data/store/backup</rdf:value>
             </dcterms:URI>
@@ -1061,7 +1221,10 @@ The workshop works best when adapted for a particular discipline and with a maxi
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-                                   <dc:identifier>
+
+
+
+        <dc:identifier>
             <dcterms:URI>
                 <rdf:value>https://www2.le.ac.uk/services/research-data/organise-data/naming-files</rdf:value>
             </dcterms:URI>
@@ -1088,7 +1251,9 @@ The workshop works best when adapted for a particular discipline and with a maxi
             </rdf:Seq>
         </bib:authors>
         <link:link rdf:resource="#item_8289"/>
-                          <dc:identifier>
+
+
+        <dc:identifier>
             <dcterms:URI>
                 <rdf:value>https://www.wur.nl/en/Expertise-Services/Data-Management-Support-Hub/Browse-by-Subject/Organising-files-and-folders.htm</rdf:value>
             </dcterms:URI>
@@ -1104,6 +1269,49 @@ The workshop works best when adapted for a particular discipline and with a maxi
         <dc:title>Wageningen_University_&amp;_Research_2015_Organising_files.jpg</dc:title>
         <link:type>image/jpeg</link:type>
     </z:Attachment>
+    <bib:ConferenceProceedings rdf:about="https://figshare.com/articles/Research_Data_Policy_for_PhDs_at_TU_Delft_pptx/5729010">
+        <z:itemType>presentation</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Delft</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+            </foaf:Organization>
+        </dc:publisher>
+        <z:presenters>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Dunning</foaf:surname>
+                        <foaf:givenname>Alastair</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </z:presenters>
+        <link:link rdf:resource="#item_8315"/>
+
+
+
+
+
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://figshare.com/articles/Research_Data_Policy_for_PhDs_at_TU_Delft_pptx/5729010</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:date>2017-12-07</dc:date>
+        <dcterms:dateSubmitted>2018-01-09 08:34:57</dcterms:dateSubmitted>
+        <z:language>en</z:language>
+        <dcterms:abstract>Presentation given to TU Delft Graduate School on making sharing of PhD policies mandatory You can download this presentation from Figshare Notes on PhD Policies for Research Data in Netherlands an…</dcterms:abstract>
+        <dc:title>Research Data Policy for PhDs</dc:title>
+    </bib:ConferenceProceedings>
+    <z:Attachment rdf:about="#item_8315">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Dunning_2017_PhD_Policies_for.pptx</dc:title>
+        <link:type>application/vnd.openxmlformats-officedocument.presentationml.presentation</link:type>
+    </z:Attachment>
     <rdf:Description rdf:about="http://researchdata.4tu.nl/fileadmin/editor_upload/pdf/README/Guidelines_for_creating_a_README_file.pdf">
         <z:itemType>document</z:itemType>
         <bib:authors>
@@ -1117,7 +1325,9 @@ The workshop works best when adapted for a particular discipline and with a maxi
         </bib:authors>
         <link:link rdf:resource="#item_8516"/>
         <link:link rdf:resource="#item_9234"/>
-                          <dc:identifier>
+
+
+        <dc:identifier>
             <dcterms:URI>
                 <rdf:value>http://researchdata.4tu.nl/fileadmin/editor_upload/pdf/README/Guidelines_for_creating_a_README_file.pdf</rdf:value>
             </dcterms:URI>
@@ -1158,7 +1368,9 @@ The workshop works best when adapted for a particular discipline and with a maxi
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-                          <dc:identifier>
+
+
+        <dc:identifier>
             <dcterms:URI>
                 <rdf:value>https://statistique-et-logiciel-r.com/12-recommandations-pour-organiser-efficacement-vos-donnees-dans-un-tableur/</rdf:value>
             </dcterms:URI>
@@ -1186,7 +1398,9 @@ The workshop works best when adapted for a particular discipline and with a maxi
             </rdf:Seq>
         </bib:authors>
         <link:link rdf:resource="#item_9277"/>
-                          <dc:identifier>
+
+
+        <dc:identifier>
             <dcterms:URI>
                 <rdf:value>https://www.library.qut.edu.au/about/management/documents/QUTTILSDocNamingConvention.pdf</rdf:value>
             </dcterms:URI>
@@ -1221,7 +1435,9 @@ The workshop works best when adapted for a particular discipline and with a maxi
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-                          <dc:identifier>
+
+
+        <dc:identifier>
             <dcterms:URI>
                 <rdf:value>https://www.gurdon.cam.ac.uk/institute-life/computing/elnguidance?mc_cid=7dce7efa97&amp;mc_eid=[UNIQID]</rdf:value>
             </dcterms:URI>
@@ -1258,7 +1474,10 @@ The workshop works best when adapted for a particular discipline and with a maxi
             </rdf:Seq>
         </bib:authors>
         <link:link rdf:resource="#item_8930"/>
-                                   <dc:identifier>
+
+
+
+        <dc:identifier>
             <dcterms:URI>
                <rdf:value>https://peerj.com/preprints/3183</rdf:value>
             </dcterms:URI>
@@ -1298,7 +1517,9 @@ The workshop works best when adapted for a particular discipline and with a maxi
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-                          <dc:identifier>
+
+
+        <dc:identifier>
             <dcterms:URI>
                 <rdf:value>http://rd-alliance.github.io/metadata-directory/tools/</rdf:value>
             </dcterms:URI>
@@ -1327,7 +1548,9 @@ The workshop works best when adapted for a particular discipline and with a maxi
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-                          <dc:identifier>
+
+
+        <dc:identifier>
             <dcterms:URI>
                 <rdf:value>http://www.datacarpentry.org/spreadsheet-ecology-lesson/02-common-mistakes/</rdf:value>
             </dcterms:URI>
@@ -1352,7 +1575,11 @@ The workshop works best when adapted for a particular discipline and with a maxi
             </rdf:Seq>
         </bib:authors>
         <link:link rdf:resource="#item_9082"/>
-                                            <dc:identifier>
+
+
+
+
+        <dc:identifier>
             <dcterms:URI>
                <rdf:value>http://nikola.me/folder_structure.html</rdf:value>
             </dcterms:URI>
@@ -1380,7 +1607,8 @@ The workshop works best when adapted for a particular discipline and with a maxi
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-                 <dc:identifier>
+
+        <dc:identifier>
             <dcterms:URI>
                <rdf:value>https://github.com/steeve/france.code-civil</rdf:value>
             </dcterms:URI>
@@ -1404,7 +1632,8 @@ The workshop works best when adapted for a particular discipline and with a maxi
             </rdf:Seq>
         </z:artists>
         <link:link rdf:resource="#item_9133"/>
-                 <dc:identifier>
+
+        <dc:identifier>
             <dcterms:URI>
                 <rdf:value>https://www.flickr.com/photos/quinnanya/3239528185/</rdf:value>
             </dcterms:URI>
@@ -1441,7 +1670,8 @@ The workshop works best when adapted for a particular discipline and with a maxi
             </rdf:Seq>
         </bib:authors>
         <link:link rdf:resource="#item_9220"/>
-                 <dc:identifier>
+
+        <dc:identifier>
             <dcterms:URI>
                 <rdf:value>http://doranum.fr/wp-content/uploads/FS2_formats_ouverts_fermes_V1.pdf</rdf:value>
             </dcterms:URI>
@@ -1476,7 +1706,8 @@ The workshop works best when adapted for a particular discipline and with a maxi
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-                 <dc:identifier>
+
+        <dc:identifier>
             <dcterms:URI>
                 <rdf:value>https://www.ukdataservice.ac.uk/manage-data/format/recommended-formats</rdf:value>
             </dcterms:URI>
@@ -1499,7 +1730,9 @@ The workshop works best when adapted for a particular discipline and with a maxi
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-                          <dc:identifier>
+
+
+        <dc:identifier>
             <dcterms:URI>
                 <rdf:value>https://www2.le.ac.uk/services/research-data/create-data/file-formats</rdf:value>
             </dcterms:URI>
@@ -1523,7 +1756,9 @@ The workshop works best when adapted for a particular discipline and with a maxi
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-                          <dc:identifier>
+
+
+        <dc:identifier>
             <dcterms:URI>
                 <rdf:value>http://doranum.fr/fiche-synthetique-metadonnees-standards-formats/</rdf:value>
             </dcterms:URI>
@@ -1544,7 +1779,10 @@ The workshop works best when adapted for a particular discipline and with a maxi
             </rdf:Seq>
         </bib:authors>
         <link:link rdf:resource="#item_9235"/>
-                                   <dc:identifier>
+
+
+
+        <dc:identifier>
             <dcterms:URI>
                 <rdf:value>https://www.coar-repositories.org/files/coar-cv-infog-f_27052042-3.pdf</rdf:value>
             </dcterms:URI>
@@ -1580,7 +1818,8 @@ The workshop works best when adapted for a particular discipline and with a maxi
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-                 <dc:identifier>
+
+        <dc:identifier>
             <dcterms:URI>
                <rdf:value>https://zotero.hypotheses.org/756</rdf:value>
             </dcterms:URI>
@@ -1607,7 +1846,10 @@ The workshop works best when adapted for a particular discipline and with a maxi
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-                                   <dc:identifier>
+
+
+
+        <dc:identifier>
             <dcterms:URI>
                <rdf:value>https://github.com/coateshl/project-mgmt</rdf:value>
             </dcterms:URI>
@@ -1632,7 +1874,11 @@ The workshop works best when adapted for a particular discipline and with a maxi
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-                                            <dc:identifier>
+
+
+
+
+        <dc:identifier>
             <dcterms:URI>
                 <rdf:value>http://library.stanford.edu/research/data-management-services/case-studies/case-study-basic-metadata</rdf:value>
             </dcterms:URI>
@@ -1664,7 +1910,10 @@ The workshop works best when adapted for a particular discipline and with a maxi
             </rdf:Seq>
         </bib:authors>
         <link:link rdf:resource="#item_9288"/>
-                                   <dc:identifier>
+
+
+
+        <dc:identifier>
             <dcterms:URI>
                 <rdf:value>http://library.stanford.edu/research/data-management-services/case-studies/case-study-file-naming-done-well</rdf:value>
             </dcterms:URI>
@@ -1697,7 +1946,9 @@ The workshop works best when adapted for a particular discipline and with a maxi
             </rdf:Seq>
         </bib:authors>
         <link:link rdf:resource="#item_9389"/>
-                          <dc:identifier>
+
+
+        <dc:identifier>
             <dcterms:URI>
                 <rdf:value>http://library.stanford.edu/research/data-management-services/case-studies/case-study-spreadsheets</rdf:value>
             </dcterms:URI>
@@ -1727,7 +1978,9 @@ The workshop works best when adapted for a particular discipline and with a maxi
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-                          <dc:identifier>
+
+
+        <dc:identifier>
             <dcterms:URI>
                 <rdf:value>http://library.stanford.edu/research/data-management-services/data-best-practices/creating-metadata/basic-approach-metadata</rdf:value>
             </dcterms:URI>
@@ -1751,7 +2004,10 @@ The workshop works best when adapted for a particular discipline and with a maxi
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-                                   <dc:identifier>
+
+
+
+        <dc:identifier>
             <dcterms:URI>
                 <rdf:value>http://library.stanford.edu/research/data-management-services/data-best-practices/creating-metadata/advanced-metadata</rdf:value>
             </dcterms:URI>
@@ -1776,7 +2032,10 @@ The workshop works best when adapted for a particular discipline and with a maxi
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-                                   <dc:identifier>
+
+
+
+        <dc:identifier>
             <dcterms:URI>
                 <rdf:value>https://tomwallis.info/2014/02/05/version-control-part-1-local-repository/</rdf:value>
             </dcterms:URI>
@@ -1803,7 +2062,11 @@ The workshop works best when adapted for a particular discipline and with a maxi
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-                                            <dc:identifier>
+
+
+
+
+        <dc:identifier>
             <dcterms:URI>
                 <rdf:value>https://tomwallis.info/2014/02/27/version-control-part-2-remote-repository/</rdf:value>
             </dcterms:URI>
@@ -1829,7 +2092,9 @@ The workshop works best when adapted for a particular discipline and with a maxi
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-                          <dc:identifier>
+
+
+        <dc:identifier>
             <dcterms:URI>
                 <rdf:value>https://www2.le.ac.uk/services/research-data/organise-data/version-control</rdf:value>
             </dcterms:URI>
@@ -1854,7 +2119,10 @@ The workshop works best when adapted for a particular discipline and with a maxi
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-                                   <dc:identifier>
+
+
+
+        <dc:identifier>
             <dcterms:URI>
                 <rdf:value>https://programminghistorian.org/lessons/getting-started-with-github-desktop</rdf:value>
             </dcterms:URI>
@@ -1885,7 +2153,11 @@ The workshop works best when adapted for a particular discipline and with a maxi
         </bib:authors>
         <link:link rdf:resource="#item_9371"/>
         <link:link rdf:resource="#item_9370"/>
-                                            <dc:identifier>
+
+
+
+
+        <dc:identifier>
             <dcterms:URI>
                 <rdf:value>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5370619/</rdf:value>
             </dcterms:URI>
@@ -1964,7 +2236,10 @@ PMCID: PMC5370619</dc:description>
             </rdf:Seq>
         </bib:authors>
         <link:link rdf:resource="#item_9377"/>
-                                   <dc:identifier>
+
+
+
+        <dc:identifier>
             <dcterms:URI>
                <rdf:value>https://doi.org/10.1186/s13059-016-1044-7</rdf:value>
             </dcterms:URI>
@@ -2003,7 +2278,10 @@ PMCID: PMC5370619</dc:description>
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-                                   <dc:identifier>
+
+
+
+        <dc:identifier>
             <dcterms:URI>
                <rdf:value>http://datacolada.org/69</rdf:value>
             </dcterms:URI>
@@ -2035,7 +2313,12 @@ PMCID: PMC5370619</dc:description>
                 </rdf:li>
             </rdf:Seq>
         </bib:editors>
-                                                     <dc:identifier>
+
+
+
+
+
+        <dc:identifier>
             <dcterms:URI>
                 <rdf:value>http://www.datacarpentry.org/spreadsheet-ecology-lesson/</rdf:value>
             </dcterms:URI>
@@ -2057,7 +2340,9 @@ PMCID: PMC5370619</dc:description>
             </rdf:Seq>
         </z:presenters>
         <link:link rdf:resource="#item_9388"/>
-                          <dc:identifier>
+
+
+        <dc:identifier>
             <dcterms:URI>
                 <rdf:value>http://conservancy.umn.edu/handle/11299/171966</rdf:value>
             </dcterms:URI>
@@ -2095,7 +2380,9 @@ PMCID: PMC5370619</dc:description>
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-                          <dc:identifier>
+
+
+        <dc:identifier>
             <dcterms:URI>
                 <rdf:value>https://www.ukdataservice.ac.uk/manage-data/store/security</rdf:value>
             </dcterms:URI>
@@ -2146,7 +2433,8 @@ PMCID: PMC5370619</dc:description>
             </rdf:Seq>
         </bib:authors>
         <link:link rdf:resource="#item_9431"/>
-                 <dc:date>2017</dc:date>
+
+        <dc:date>2017</dc:date>
         <dc:description>type: dataset</dc:description>
         <z:libraryCatalog>DataCite</z:libraryCatalog>
         <z:language>en</z:language>
@@ -2176,7 +2464,10 @@ PMCID: PMC5370619</dc:description>
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-                                   <dc:identifier>
+
+
+
+        <dc:identifier>
             <dcterms:URI>
                 <rdf:value>https://zenodo.org/record/1063932#.WoFooGfff7w</rdf:value>
             </dcterms:URI>
@@ -2220,7 +2511,10 @@ PMCID: PMC5370619</dc:description>
         </bib:authors>
         <link:link rdf:resource="#item_9585"/>
         <link:link rdf:resource="#item_9551"/>
-                                            <dc:date>2018-02-02</dc:date>
+
+
+
+        <dc:date>2018-02-02</dc:date>
         <dc:description>type: dataset</dc:description>
         <dcterms:dateSubmitted>2018-02-19 07:58:23</dcterms:dateSubmitted>
         <z:libraryCatalog>datadryad.org</z:libraryCatalog>
@@ -2254,7 +2548,8 @@ PMCID: PMC5370619</dc:description>
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-                 <dc:identifier>
+
+        <dc:identifier>
             <dcterms:URI>
                <rdf:value>http://kbroman.org/dataorg/</rdf:value>
             </dcterms:URI>
@@ -2277,7 +2572,10 @@ PMCID: PMC5370619</dc:description>
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-                                   <dc:identifier>
+
+
+
+        <dc:identifier>
             <dcterms:URI>
                <rdf:value>https://consciences.hypotheses.org/1184</rdf:value>
             </dcterms:URI>
@@ -2304,13 +2602,15 @@ PMCID: PMC5370619</dc:description>
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-                                   <dc:identifier>
+
+
+
+        <dc:identifier>
             <dcterms:URI>
                 <rdf:value>https://github.com/HackYourPhd/ateliers-open-geek/blob/master/Atelier_05_biblio_zotero/Atelier_05.md</rdf:value>
             </dcterms:URI>
         </dc:identifier>
         <dc:date>2016/11</dc:date>
-        <dc:description>original-date: 2014-10-14T11:59:40Z</dc:description>
         <dcterms:dateSubmitted>2018-03-07 14:06:42</dcterms:dateSubmitted>
         <dc:title>Atelier #05 : La biblio, c’est fantastique ! : découverte de Zotero</dc:title>
         <z:shortTitle>ateliers-open-geek</z:shortTitle>
@@ -2332,7 +2632,10 @@ PMCID: PMC5370619</dc:description>
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-                                   <dc:identifier>
+
+
+
+        <dc:identifier>
             <dcterms:URI>
                 <rdf:value>https://tribuneci.wordpress.com/2016/10/11/zotlog-structurer-son-parcours-de-recherche-avec-zotero/</rdf:value>
             </dcterms:URI>
@@ -2341,5 +2644,82 @@ PMCID: PMC5370619</dc:description>
         <dcterms:dateSubmitted>2018-03-07 14:13:02</dcterms:dateSubmitted>
         <z:type>Billet</z:type>
         <dc:title>ZotLog : structurer son parcours de recherche avec Zotero</dc:title>
+    </bib:Document>
+    <bib:ConferenceProceedings rdf:about="https://www.slideshare.net/OpenAccessEC/research-and-innovation-in-transformation-the-transition-to-open-science">
+        <z:itemType>presentation</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Lillestrom</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+            </foaf:Organization>
+        </dc:publisher>
+        <z:presenters>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Dechamp</foaf:surname>
+                        <foaf:givenname>Jean-François</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </z:presenters>
+        <link:link rdf:resource="#item_10066"/>
+        <link:link rdf:resource="#item_10076"/>
+
+
+
+
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.slideshare.net/OpenAccessEC/research-and-innovation-in-transformation-the-transition-to-open-science</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:date>2018-03-06</dc:date>
+        <dcterms:dateSubmitted>2018-03-08 16:37:08</dcterms:dateSubmitted>
+        <z:meetingName>NARMA2018</z:meetingName>
+        <dc:title>Research and Innovation in transformation: the transition to Open Science</dc:title>
+        <z:shortTitle>Research and Innovation in transformation</z:shortTitle>
+    </bib:ConferenceProceedings>
+    <z:Attachment rdf:about="#item_10066">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Dechamp_2018_Research_and.pdf</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_10076">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Dechamp_2018_Research_and.png</dc:title>
+        <link:type>image/png</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="https://www.openaire.eu/what-is-the-open-research-data-pilot">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website><dc:title>OpenAIRE</dc:title></z:Website>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Koulocheri</foaf:surname>
+                        <foaf:givenname>Eleni</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+
+
+
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.openaire.eu/what-is-the-open-research-data-pilot</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:date>14/11/2017</dc:date>
+        <dcterms:dateSubmitted>2018-03-14 15:05:53</dcterms:dateSubmitted>
+        <z:language>en-gb</z:language>
+        <dc:title>What is the Open Research Data Pilot?</dc:title>
+        <z:shortTitle>What is the Open Research Data Pilot?</z:shortTitle>
     </bib:Document>
 </rdf:RDF>

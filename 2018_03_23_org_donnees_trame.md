@@ -1,15 +1,18 @@
+<!-- $theme: default-->
+<!-- page_number: true -->
+<!-- $size: 16:9 -->
 
 # Organiser efficacement ses données
 # Trame
 **Urfist Bordeaux**
 23 mars 2018
-
-<a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/fr/"><img alt="Licence Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/3.0/fr/88x31.png" /></a><br />Les supports sont mis à disposition selon les termes de la <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/fr/">Licence Creative Commons Attribution -  Partage dans les Mêmes Conditions 3.0 France</a> 
-
-*Frédérique Flamerie* - *chargée de mission science ouverte/données de la recherche*
-
+Matériel du cours en ligne [ici](https://github.com/fflamerie/organisation_donnees_2018)
+<small>
+*Frédérique Flamerie*
+*chargée de mission science ouverte/données de la recherche*
 *Université de Bordeaux - Direction de la Documentation*
-
+</small>
+![licence_cc 50%](img/by-sa.png)
 
 
 ---
@@ -32,13 +35,13 @@
 ---
 
 # Programme
-* Théâtre : Molière  _Le Bourgeois gentilhomme_
-* Poésie : Rimbaud "Je est un autre"
-* Des outils
-* Des fiches thématiques
-* Beaucoup d'exemples
-* Analyse de vos méthodes actuelles et premières réflexions d'amélioration
-* Des questions avec ![pingo 50%](img/icone_pingo.png) @ **https://huit.re/org_donnees_questions**
+Théâtre : Molière  _Le Bourgeois gentilhomme_
+Poésie : Rimbaud "Je est un autre"
+Des outils
+Des fiches thématiques
+Beaucoup d'exemples
+Analyse de vos méthodes actuelles et premières réflexions d'amélioration
+Des questions avec ![pingo 50%](img/icone_pingo.png) @ **https://huit.re/org_donnees_questions**
 
 ## Et à un moment : pause :coffee: ou :tea: ou :tropical_drink:
 
@@ -70,7 +73,7 @@ Quelles tâches associez-vous à l'organisation? Organiser = ?
 ## Pourquoi?
 * S'aider soi-même et
 * aider les autres à **comprendre** et **réutiliser** les données.
-* NB **soi-même dans qqs années** = 1 autre.
+* NB **soi-même dans qqs années = 1 autre**.
 * Définir des règles = imposer des contraintes ou éviter de se demander (et se demander à nouveau 3 semaines après, et se demander encore des mois plus tard) comment faire?
 * Documenter = nécessaire (mais non suffisant) pour assurer un minimum de reproductibilité, et démontrer son honnêteté intellectuelle et scientifique : enjeux de **traçabilité** et d'**intégrité**.
 
@@ -115,6 +118,7 @@ Que devrait accomplir un outil d'organisation idéal?
 # Les outils de la formation
 * org_donnees_tableau 
 * bloc-notes Windows ou MarkdownPad
+* Calc (LibreOffice)
 * [Q-Dir](https://www.softwareok.com/?seite=Freeware/Q-Dir)
 * [Text 2 Folders](http://www.dcmembers.com/skwire/download/text-2-folders/)
 * [Ant Renamer](http://www.antp.be/software/renamer)
@@ -180,7 +184,7 @@ La question porte sur le **fond** (quelles informations créez-vous ou enregistr
 
 ---
 
-# Conclusion
+# Conclusion 1/2
 
 Un résumé de cette formation en 7 brèves lessons (au moins les 6 premières) :
 
@@ -195,6 +199,31 @@ Lesson #5. Version control
 Lesson #6. Making your data presentable can be hard work if you are not prepared
 Lesson #7. Making your work open is very satisfying.
 ```
+---
+# Conclusion 2/2 : la grande image 
+
+![research_data_lifecycle 85%](img/scope_gestion_efficace.jpg)
+
+---
+# Conclusion 2/2 : la grande image 
+
+_Research Data Management_, _Open Science_, _FAIR data_, _Data Management Plan_ etc. =  à l'agenda
+
+## dans les projets financés par l'Europe
+Dechamp, J.-F. (2018, 6 mars). Research and Innovation in transformation: the transition to Open Science. Communication présentée au NARMA2018, Lillestrom. Repéré à https://www.slideshare.net/OpenAccessEC/research-and-innovation-in-transformation-the-transition-to-open-science
+
+Koulocheri, E. (2017, 14 novembre). What is the Open Research Data Pilot? _OpenAIRE_. Repéré à https://www.openaire.eu/what-is-the-open-research-data-pilot
+
+---
+## dans certaines universités
+Schönbrodt, F. (2016, 6 janvier). Changing hiring practices towards research transparency: The first open science statement in a professorship advertisement. _Nicebread_. Repéré à http://www.nicebread.de/open-science-hiring-practices/
+
+Dunning, A. (2017, 7 décembre). Research Data Policy for PhDs. Delft. Repéré à https://ndownloader.figshare.com/files/10075623
+
+## pour un nombre croissant d'éditeurs
+STM Publishing News. (2017, 14 septembre). Wiley announces new Data Sharing and Citation policies to improve transparency in research. _STM Publishing News_. Repéré à http://www.stm-publishing.com/wiley-announces-new-data-sharing-and-citation-policies-to-improve-transparency-in-research/
+
+
 ---
 
 # Des :interrobang:

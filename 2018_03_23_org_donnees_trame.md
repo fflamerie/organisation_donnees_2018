@@ -202,7 +202,7 @@ Lesson #7. Making your work open is very satisfying.
 ---
 # Conclusion 2/2 : la grande image 
 
-![research_data_lifecycle 85%](img/scope_gestion_efficace.jpg)
+![research_data_lifecycle 80%](img/scope_gestion_efficace.jpg)
 
 ---
 # Conclusion 2/2 : la grande image 
